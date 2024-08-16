@@ -1,4 +1,4 @@
-import requests
+import requests, json
 
 CITY = 'Rio-de-Janeiro-~-RJ'
 # "Sao Paulo - São Paulo"
@@ -360,4 +360,9 @@ headers = {
 # Send request to fetch locations
 response = requests.post("https://www.airbnb.com.br/api/v3/StaysSearch/" + operationId + "?operationName=StaysSearch&locale=pt&currency=BRL", json=requestBody, headers=headers)
 responseBody = response.text
-print(responseBody)
+#print(responseBody)
+
+json_data = json.loads(responseBody)
+
+with open("airbnb-data.json", "w+") as arquivo:
+    json.dump(json_data, arquivo, indent=4, ensure_ascii=False)
