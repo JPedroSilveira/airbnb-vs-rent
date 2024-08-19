@@ -1,4 +1,7 @@
 import json, csv, re
+from datetime import date
+
+today = date.today()
 
 def extract_rates(avaliation):
     pattern = r"(\d+,\d+)\s+\((\d+)\)"
@@ -16,12 +19,13 @@ with open('airbnb-data.json', 'r') as file:
     json_data = json.load(file)
 
 search_results = json_data['data']['presentation']['staysSearch']['results']['searchResults']
-with open('filtered-airbnb-data.csv', 'w', newline='', encoding='utf-8') as arquivo_csv:
+with open('filtered-airbnb-data.csv', 'a', newline='', encoding='utf-8') as arquivo_csv:
     writer = csv.writer(arquivo_csv)
-    writer.writerow(['id', 'name', 'room_type_category', 'rate', 'qtd_rate', 'latitude', 'longitude', 'daily_price', 'total_price'])
+    #writer.writerow(['id', 'search_date', 'name', 'room_type_category', 'rate', 'qtd_rate', 'latitude', 'longitude', 'daily_price', 'total_price'])
 
     for result in search_results:
         id = result['listing']['id']
+        search_date = str(today)
         name = result['listing']['name']
         room_type_category = result['listing']['roomTypeCategory'] # Não sei o quão útil será essa coluna, talvez remove-la posteriormente
         rate, qtd_rate = extract_rates(result['listing']['avgRatingLocalized'])
@@ -31,4 +35,4 @@ with open('filtered-airbnb-data.csv', 'w', newline='', encoding='utf-8') as arqu
         daily_price = result['pricingQuote']['structuredStayDisplayPrice']['primaryLine']['accessibilityLabel']
         total_price = result['pricingQuote']['structuredStayDisplayPrice']['secondaryLine']['accessibilityLabel']
 
-        writer.writerow([id, name, room_type_category, rate, qtd_rate, latitude, longitude, daily_price, total_price])
+        writer.writerow([id, search_date, name, room_type_category, rate, qtd_rate, latitude, longitude, daily_price, total_price])
