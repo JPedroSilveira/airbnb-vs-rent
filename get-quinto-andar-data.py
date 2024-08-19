@@ -2,7 +2,7 @@ import time, requests, json
 from datetime import date
 
 CITY = "rio-de-janeiro-rj-brasil" # "sao-paulo-sp-brasil"
-PAGE_SIZE = 200
+PAGE_SIZE = 50
 
 today = date.today()
 
