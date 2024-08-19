@@ -5,9 +5,11 @@ import os
 import pandas as pd
 from datetime import date
 
+DATA_ORIGINS = ['airbnb', 'quintoandar']
+
 # Keys are the columns to be filtered, values are new names for the columns
 
-FILTERED_COLUMNS = {
+FILTERED_COLUMNS_AIRBNB = {
     'listing.id' : 'id', 
     'listing.name' : 'name', 
     'listing.roomTypeCategory' : 'room_type_category', 
@@ -18,9 +20,30 @@ FILTERED_COLUMNS = {
     'pricingQuote.structuredStayDisplayPrice.secondaryLine.accessibilityLabel' : 'total_price',
 }
 
+FILTERED_COLUMNS_QUINTO_ANDAR = {
+    '_id' : 'id',
+    '_source.type' : 'type',
+    '_source.area' : 'area',
+    '_source.bedrooms' : 'bedrooms',
+    '_source.bathrooms' : 'bathrooms',
+    '_source.parkingSpaces' : 'parking_spaces',
+    '_source.isFurnished' : 'is_furnished',
+    '_source.rent' : 'rent',
+    '_source.iptuPlusCondominum' : 'iptu_plus_condominum',
+    '_source.totalCost' : 'total_cost',
+    '_source.salePrice' : 'sale_price',
+    '_source.address' : 'address',
+    '_source.neighbourhood' : 'neighbourhood',
+    '_source.regionName' : 'regionName',
+    '_source.city' : 'city',
+    '_source.forRent' : 'for_rent',
+    '_source.forSale' : 'for_sale',
+}
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('input_path', type=str, help='Path to input file')
+    parser.add_argument('data_origin', type=str, choices=DATA_ORIGINS, help='Site from which the data originates')
     parser.add_argument('-o', dest='output_path', type=str, help='Output directory', default='.')
     parser.add_argument('-r', dest='raw', action='store_true', help='Get raw output')
 
@@ -29,6 +52,7 @@ def parse_args():
     args.output_path = os.path.abspath(args.output_path)
     assert os.path.isfile(args.input_path)
     assert os.path.isdir(args.output_path)
+    
 
     return args
 
@@ -43,31 +67,37 @@ def extract_rates(evaluation):
     
     return None, None
 
-def filter_airbnb_data(input_path, output_path, raw):
+def filter_data(input_path, output_path, origin, raw):
 
     with open(input_path, 'r') as file:
         json_data = json.load(file)
 
-    search_results = json_data['data']['presentation']['staysSearch']['results']['searchResults']
+    if origin == 'airbnb':
+        filtered_colums = FILTERED_COLUMNS_AIRBNB
+        json_data = json_data['data']['presentation']['staysSearch']['results']['searchResults']
+    else:
+        filtered_colums = FILTERED_COLUMNS_QUINTO_ANDAR
 
-    df = pd.json_normalize(search_results)
+
+    df = pd.json_normalize(json_data)
 
     if raw:
-        raw_output_path = os.path.join(output_path, 'airbnb_search_results_raw_latest.csv')
+        raw_output_path = os.path.join(output_path, f'{origin}_search_results_raw_latest.csv')
         df.to_csv(raw_output_path)
 
+
     # Add missing columns
-    for i in FILTERED_COLUMNS.keys():
+    for i in filtered_colums.keys():
         if i not in df.columns:
             df[i] = 0
 
-    df = df[FILTERED_COLUMNS.keys()]
-    df.rename(columns=FILTERED_COLUMNS, inplace=True)
+    df = df[filtered_colums.keys()]
+    df.rename(columns=filtered_colums, inplace=True)
     
     today = date.today()
     df.insert(0, 'date', today)
 
-    output_path = os.path.join(output_path, 'airbnb_search_results_latest.csv')
+    output_path = os.path.join(output_path, f'{origin}_search_results_latest.csv')
     df.to_csv(output_path)
 
 if __name__ == '__main__':
@@ -75,6 +105,7 @@ if __name__ == '__main__':
 
     input_path = args.input_path
     output_path = args.output_path
+    origin = args.data_origin
     raw = args.raw
 
-    filter_airbnb_data(input_path=input_path, output_path=output_path, raw=raw)
+    filter_data(input_path=input_path, output_path=output_path, origin=origin, raw=raw)
