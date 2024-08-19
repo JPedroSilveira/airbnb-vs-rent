@@ -3,6 +3,7 @@ import re
 import argparse
 import os
 import pandas as pd
+from datetime import date
 
 # Keys are the columns to be filtered, values are new names for the columns
 
@@ -63,6 +64,9 @@ def filter_airbnb_data(input_path, output_path, raw):
     df = df[FILTERED_COLUMNS.keys()]
     df.rename(columns=FILTERED_COLUMNS, inplace=True)
     
+    today = date.today()
+    df.insert(0, 'date', today)
+
     output_path = os.path.join(output_path, 'airbnb_search_results_latest.csv')
     df.to_csv(output_path)
 
