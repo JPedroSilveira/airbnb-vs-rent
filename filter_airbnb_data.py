@@ -1,15 +1,27 @@
 import json
-import csv
 import re
 import argparse
 import os
+import pandas as pd
 
+# Keys are the columns to be filtered, values are new names for the columns
 
+FILTERED_COLUMNS = {
+    'listing.id' : 'id', 
+    'listing.name' : 'name', 
+    'listing.roomTypeCategory' : 'room_type_category', 
+    'listing.avgRatingLocalized' : 'rate',
+    'listing.coordinate.latitude' : 'latitude',
+    'listing.coordinate.longitude' : 'longitude',
+    'pricingQuote.structuredStayDisplayPrice.primaryLine.accessibilityLabel' : 'daily_price',
+    'pricingQuote.structuredStayDisplayPrice.secondaryLine.accessibilityLabel' : 'total_price',
+}
 
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('input_path', type=str, help='Path to input file')
     parser.add_argument('-o', dest='output_path', type=str, help='Output directory', default='.')
+    parser.add_argument('-r', dest='raw', action='store_true', help='Get raw output')
 
     args = parser.parse_args()
     args.input_path = os.path.abspath(args.input_path)
@@ -30,37 +42,35 @@ def extract_rates(evaluation):
     
     return None, None
 
-def filter_airbnb_data(input_path, output_path):
+def filter_airbnb_data(input_path, output_path, raw):
 
     with open(input_path, 'r') as file:
         json_data = json.load(file)
 
     search_results = json_data['data']['presentation']['staysSearch']['results']['searchResults']
 
-    with open(output_path, 'w', newline='', encoding='utf-8') as csv_file:
-        writer = csv.writer(csv_file)
-        writer.writerow(['id', 'name', 'room_type_category', 'rate', 'qtd_rate', 'latitude', 'longitude', 'daily_price', 'total_price'])
+    df = pd.json_normalize(search_results)
 
-        for result in search_results:
-            id = result['listing']['id']
-            name = result['listing']['name']
-            room_type_category = result['listing']['roomTypeCategory'] # Não sei o quão útil será essa coluna, talvez remove-la posteriormente
-            rate, qtd_rate = extract_rates(result['listing']['avgRatingLocalized'])
-            latitude = result['listing']['coordinate']['latitude']
-            longitude = result['listing']['coordinate']['longitude']
+    if raw:
+        raw_output_path = os.path.join(output_path, 'airbnb_search_results_raw_latest.csv')
+        df.to_csv(raw_output_path)
 
-            daily_price = result['pricingQuote']['structuredStayDisplayPrice']['primaryLine']['accessibilityLabel']
-            total_price = result['pricingQuote']['structuredStayDisplayPrice']['secondaryLine']['accessibilityLabel']
+    # Add missing columns
+    for i in FILTERED_COLUMNS.keys():
+        if i not in df.columns:
+            df[i] = 0
 
-            writer.writerow([id, name, room_type_category, rate, qtd_rate, latitude, longitude, daily_price, total_price])
+    df = df[FILTERED_COLUMNS.keys()]
+    df.rename(columns=FILTERED_COLUMNS, inplace=True)
+    
+    output_path = os.path.join(output_path, 'airbnb_search_results_latest.csv')
+    df.to_csv(output_path)
 
 if __name__ == '__main__':
     args = parse_args()
 
     input_path = args.input_path
     output_path = args.output_path
-    output_path = os.path.join('filtered_airbnb_data_latest.csv')
+    raw = args.raw
 
-    assert not os.path.exists(output_path)
-
-    filter_airbnb_data(input_path=input_path, output_path=output_path)
+    filter_airbnb_data(input_path=input_path, output_path=output_path, raw=raw)
