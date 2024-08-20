@@ -74,7 +74,6 @@ def filter_data(input_path, output_path, origin, raw):
 
     if origin == 'airbnb':
         filtered_colums = FILTERED_COLUMNS_AIRBNB
-        json_data = json_data['data']['presentation']['staysSearch']['results']['searchResults']
     else:
         filtered_colums = FILTERED_COLUMNS_QUINTO_ANDAR
 
