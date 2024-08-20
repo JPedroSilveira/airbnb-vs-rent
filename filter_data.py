@@ -43,7 +43,6 @@ FILTERED_COLUMNS_QUINTO_ANDAR = {
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('input_path', type=str, help='Path to input file')
-    parser.add_argument('data_origin', type=str, choices=DATA_ORIGINS, help='Site from which the data originates')
     parser.add_argument('-o', dest='output_path', type=str, help='Output directory', default='.')
     parser.add_argument('-r', dest='raw', action='store_true', help='Get raw output')
 
@@ -77,11 +76,12 @@ def filter_data(input_path, output_path, origin, raw):
     else:
         filtered_colums = FILTERED_COLUMNS_QUINTO_ANDAR
 
-
     df = pd.json_normalize(json_data)
+    
+    today = date.today()
 
     if raw:
-        raw_output_path = os.path.join(output_path, f'{origin}_search_results_raw_latest.csv')
+        raw_output_path = os.path.join(output_path, f'{origin}_search_results_raw_{today}.csv')
         df.to_csv(raw_output_path)
 
 
@@ -93,10 +93,9 @@ def filter_data(input_path, output_path, origin, raw):
     df = df[filtered_colums.keys()]
     df.rename(columns=filtered_colums, inplace=True)
     
-    today = date.today()
     df.insert(0, 'date', today)
 
-    output_path = os.path.join(output_path, f'{origin}_search_results_latest.csv')
+    output_path = os.path.join(output_path, f'{origin}_search_results_{today}.csv')
     df.to_csv(output_path)
 
 if __name__ == '__main__':
@@ -104,7 +103,10 @@ if __name__ == '__main__':
 
     input_path = args.input_path
     output_path = args.output_path
-    origin = args.data_origin
     raw = args.raw
+
+    # Check if it's a valid file
+    origin = os.path.basename(input_path).split('_')[0]
+    assert origin in DATA_ORIGINS
 
     filter_data(input_path=input_path, output_path=output_path, origin=origin, raw=raw)
