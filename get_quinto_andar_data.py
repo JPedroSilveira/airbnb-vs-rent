@@ -7,7 +7,7 @@ from datetime import datetime
 
 CITY_DICT =  {
 	'rj' : 'rio-de-janeiro-rj-brasil',
-    'sp' : 'sao-paulo-sp-brasil'
+	'sp' : 'sao-paulo-sp-brasil'
 	}
 
 DATE_FORMAT = '%Y-%m-%d'
@@ -16,7 +16,9 @@ def parse_args():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('city', type=str, choices=CITY_DICT.keys(), help='City to scrape')
 	parser.add_argument('-o', '--output_dir', type=str, default='.', help='Output directory')
-
+	
+	parser.add_argument('-f', dest='force', action='store_true', help='Force scraping even if output file already exists')
+	
 	args = parser.parse_args()
 
 	assert args.city in CITY_DICT
@@ -161,8 +163,12 @@ if __name__ == '__main__':
 
 	out_postfix = '_' + city_acronym.upper() + '_' + datetime.now().strftime(DATE_FORMAT)
 
-	output_file = 'quinto_andar_data' + out_postfix + '.json'
+	output_file = 'quintoandar_data' + out_postfix + '.json'
 	output_file = os.path.join(args.output_dir, output_file)
+
+	if not args.force and os.path.exists(output_file):
+		print(f'Scraping output file {output_file} already exists, aborting!')
+		exit()
 
 	scrape_quinto_andar(
 		city=city,

@@ -28,6 +28,7 @@ def parse_args():
 	parser.add_argument('monthly_start_date', type=str, help='Monthly start date')
 	parser.add_argument('monthly_end_date', type=str, help='Monthly end date')
 	parser.add_argument('-o', '--output_dir', type=str, default='.', help='Output directory')
+	parser.add_argument('-f', dest='force', action='store_true', help='Force scraping even if output file already exists')
 
 	args = parser.parse_args()
 
@@ -529,6 +530,10 @@ if __name__ == '__main__':
 
 	output_file = 'airbnb_data' + out_postfix + '.json'
 	output_file = os.path.join(args.output_dir, output_file)
+
+	if not args.force and os.path.exists(output_file):
+		print(f'Scraping output file {output_file} already exists, aborting!')
+		exit()
 
 	scrape_airbnb(
 		city=city,
