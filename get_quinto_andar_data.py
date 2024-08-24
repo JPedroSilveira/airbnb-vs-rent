@@ -1,14 +1,21 @@
 import time
+import uuid
 import requests
 import json
 import argparse
 import os
 from datetime import datetime
+from geopy.geocoders import Photon
 
 CITY_DICT =  {
 	'rj' : 'rio-de-janeiro-rj-brasil',
 	'sp' : 'sao-paulo-sp-brasil'
 	}
+
+STATE_DICT = {
+    'Rio de Janeiro': 'RJ',
+    'São Paulo': 'SP'
+}
 
 DATE_FORMAT = '%Y-%m-%d'
 
@@ -32,6 +39,22 @@ def parse_args():
 
 	return args
 
+def get_coordinates_from_address(locations):
+    user_agent = "airbnbvsrent_quintoandar_" + str(uuid.uuid4())
+    geolocator = Photon(user_agent=user_agent)
+
+    for location in locations:
+        source = location['_source']
+        city = source['city']
+        address = source['address']
+        neighbourhood = source['neighbourhood']
+        address = address + " - " + neighbourhood + ", " + city + ' - ' + STATE_DICT[city]
+        localization = geolocator.geocode(address)
+        if localization is not None:
+            source['latitude'] = localization.latitude
+            source['longitude'] = localization.longitude
+        time.sleep(1)
+      
 
 def scrape_quinto_andar(city, output_path, page_size=50):
     url = "https://apigw.prod.quintoandar.com.br/cached/house-listing-search/v1/search/list"
@@ -145,11 +168,14 @@ def scrape_quinto_andar(city, output_path, page_size=50):
         if len(requestLocations) < page_size:
             lastPage = True
         else:
+            lastPage = True
             currentPage += 1
             currentOffset = currentPage * page_size
             time.sleep(5)
 
     print("Number of found locations: ", str(len(locations)))
+
+    get_coordinates_from_address(locations)
 
     with open(output_path, "w+") as file:
         json.dump(locations, file, indent=4, ensure_ascii=False)
