@@ -73,8 +73,10 @@ def filter_data(input_path, output_path, origin, raw):
 
     if origin == 'airbnb':
         filtered_colums = FILTERED_COLUMNS_AIRBNB
+        sanitize_function = sanitize_airbnb_csv
     else:
         filtered_colums = FILTERED_COLUMNS_QUINTO_ANDAR
+        sanitize_function = sanitize_quinto_andar_csv
 
     df = pd.json_normalize(json_data)
     
@@ -95,8 +97,24 @@ def filter_data(input_path, output_path, origin, raw):
     
     df.insert(0, 'date', today)
 
+    df = sanitize_function(df)
+
     output_path = os.path.join(output_path, f'{origin}_search_results_{today}.csv')
     df.to_csv(output_path)
+
+def sanitize_airbnb_csv(df):
+    df['rate'] = df['rate'].apply(
+        lambda x: re.findall(r'[0-9]+,?[0-9]*', str(x)))
+    df['rate'] = df['rate'].apply(
+        lambda x: 0 if len(x) == 0 else x[0])
+    df['daily_price'] = df['daily_price'].apply(
+        lambda x: re.findall(r'[0-9]*\.?[0-9]+', str(x))[0].replace('.', ''))
+    df['total_price'] = df['total_price'].apply(
+        lambda x: re.findall(r'[0-9]*\.?[0-9]+', str(x))[0].replace('.', ''))
+    return df
+
+def sanitize_quinto_andar_csv(df):
+    return df
 
 if __name__ == '__main__':
     args = parse_args()
