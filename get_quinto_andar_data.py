@@ -49,7 +49,7 @@ def get_coordinates_from_address(locations):
         address = source['address']
         neighbourhood = source['neighbourhood']
         address = address + " - " + neighbourhood + ", " + city + ' - ' + STATE_DICT[city]
-        localization = geolocator.geocode(address)
+        localization = geolocator.geocode(address, exactly_one=True)
         if localization is not None:
             source['latitude'] = localization.latitude
             source['longitude'] = localization.longitude

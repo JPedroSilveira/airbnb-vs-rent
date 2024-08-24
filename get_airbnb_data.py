@@ -1,9 +1,11 @@
 import requests
+import uuid
 import json
 import argparse
 import os
 from datetime import datetime
 import dateutil
+from geopy.geocoders import Nominatim
 
 CITY_DICT =  {
 	'rj' : 'Rio-de-Janeiro-~-RJ',
@@ -11,7 +13,7 @@ CITY_DICT =  {
 
 DATE_FORMAT = '%Y-%m-%d'
 
-MAX_PRICE = 20000
+MAX_PRICE = 2000
 AIRBNB_MAX_ITEMS_PER_SEARCH = 280
 
 def format_date_to_request(date_string):
@@ -46,6 +48,25 @@ def parse_args():
 	args.output_dir = path
 
 	return args
+
+def get_address_from_coordinates(locations):
+	user_agent = "airbnbvsrent_airbnb_" + str(uuid.uuid4())
+	geolocator = Nominatim(user_agent=user_agent)
+	for location in locations:
+		coordinate = location['listing']['coordinate']
+		latitude = coordinate['latitude']
+		longitude = coordinate['longitude']
+		localization = geolocator.reverse((latitude, longitude), exactly_one=True, addressdetails=True)
+		address = localization.raw['address']
+		road = address['road'] if 'road' in address else None
+		neighbourhood = address['suburb']
+		region = address['region']
+		city = address['city']
+		location['address'] = {}
+		location['address']['road'] = road
+		location['address']['neighbourhood'] = neighbourhood
+		location['address']['region'] = region
+		location['address']['city'] = city
 
 def scrape_airbnb(city, start_date, end_date, monthly_start_date, monthly_end_date, output_file, number_of_nights=6, monthly_length=3, items_per_request=50):
 	max_number_of_cursors = AIRBNB_MAX_ITEMS_PER_SEARCH / items_per_request
@@ -507,6 +528,8 @@ def scrape_airbnb(city, start_date, end_date, monthly_start_date, monthly_end_da
 
 	print("Number of locations found: ", str(len(locations)))
 	
+	get_address_from_coordinates(locations)
+
 	with open(output_file, "w+") as arquivo:
 		json.dump(locations, arquivo, indent=4, ensure_ascii=False)
 

@@ -16,6 +16,10 @@ FILTERED_COLUMNS_AIRBNB = {
     'listing.avgRatingLocalized' : 'rate',
     'listing.coordinate.latitude' : 'latitude',
     'listing.coordinate.longitude' : 'longitude',
+    'address.road': 'address',
+    'address.neighbourhood': 'neighbourhood',
+    'address.region': 'regionName',
+    'address.city': 'city',
     'pricingQuote.structuredStayDisplayPrice.primaryLine.accessibilityLabel' : 'daily_price',
     'pricingQuote.structuredStayDisplayPrice.secondaryLine.accessibilityLabel' : 'total_price',
 }
