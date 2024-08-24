@@ -71,6 +71,8 @@ def filter_data(input_path, output_path, origin, raw):
     with open(input_path, 'r') as file:
         json_data = json.load(file)
 
+    file_basename = os.path.basename(input_path)[:-4]
+
     if origin == 'airbnb':
         filtered_colums = FILTERED_COLUMNS_AIRBNB
         sanitize_function = sanitize_airbnb_csv
@@ -79,11 +81,9 @@ def filter_data(input_path, output_path, origin, raw):
         sanitize_function = sanitize_quinto_andar_csv
 
     df = pd.json_normalize(json_data)
-    
-    today = date.today()
 
     if raw:
-        raw_output_path = os.path.join(output_path, f'{origin}_search_results_raw_{today}.csv')
+        raw_output_path = os.path.join(output_path, f'{file_basename}_raw.csv')
         df.to_csv(raw_output_path)
 
 
@@ -94,12 +94,10 @@ def filter_data(input_path, output_path, origin, raw):
 
     df = df[filtered_colums.keys()]
     df.rename(columns=filtered_colums, inplace=True)
-    
-    df.insert(0, 'date', today)
 
     df = sanitize_function(df)
 
-    output_path = os.path.join(output_path, f'{origin}_search_results_{today}.csv')
+    output_path = os.path.join(output_path, f'{file_basename}.csv')
     df.to_csv(output_path)
 
 def sanitize_airbnb_csv(df):
