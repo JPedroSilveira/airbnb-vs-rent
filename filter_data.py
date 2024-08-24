@@ -36,6 +36,8 @@ FILTERED_COLUMNS_QUINTO_ANDAR = {
     '_source.neighbourhood' : 'neighbourhood',
     '_source.regionName' : 'regionName',
     '_source.city' : 'city',
+    '_source.latitude' : 'latitude',
+    '_source.longitude' : 'longitude',
     '_source.forRent' : 'for_rent',
     '_source.forSale' : 'for_sale',
 }

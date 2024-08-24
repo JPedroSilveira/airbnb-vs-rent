@@ -1,0 +1,455 @@
+,id,name,room_type_category,rate,latitude,longitude,daily_price,total_price
+0,52552641,Hospedagem Hana hostel albergues e república,entire_home,0,-22.99106,-43.25208,91,91
+1,1109434086028463555,Quarto na Villa Jardim Botânico,entire_home,"5,0",-22.964726982570763,-43.21787991852417,95,95
+2,10336543,Suíte 2,entire_home,"4,5",-22.922155380249023,-43.20748519897461,95,105
+3,40140158,"Kitnet Aconchegante em Benfica, RJ",entire_home,"4,91",-22.8903,-43.24026,94,114
+4,1178574523261742246,Alugo Flat,entire_home,0,-22.89869083551905,-43.2355087790393,97,97
+5,1205230958941808747,Lugar pra ficar próx a Madureira e Estação,entire_home,0,-22.873126891994293,-43.314402385275514,108,108
+6,1171986780601762420,STudio recanto de Santa Teresa RJ,entire_home,0,-22.93104,-43.19757,109,159
+7,30557346,Kitnet independente Vila Isabel,entire_home,"4,87",-22.91694,-43.2515,118,148
+8,785652927013622031,Apêzinho da Yana,entire_home,"4,74",-22.9146495,-43.1852203,117,137
+9,33129825,Apartamento em Copacabana. Melhor localização,entire_home,"4,5",-22.96223,-43.17493,120,199
+10,1175395853578241332,Mobiliado Barra 15 min. Praia,entire_home,0,-22.989388117119677,-43.318452175455924,118,118
+11,1135655821123459825,Casa de fundos com varanda,entire_home,0,-22.879175016842588,-43.31100718501695,125,205
+12,1028519340299475744,Casa Amarela,entire_home,"5,0",-22.9438593,-43.2609434,131,131
+13,1201532227555531164,Studio aconchegante Centro Rio,entire_home,0,-22.9001411,-43.1799214,135,245
+14,51288926,Apartamento Aconchego da Gigoia-Suíte Casal Luxo,entire_home,"4,96",-23.0015,-43.30847,132,200
+15,1037084288333658273,"Casa em Icaraí, pertinho da praia",entire_home,0,-22.906563169233,-43.10671649873257,144,193
+16,1202184690362703695,Apartamento no centro da cidade,entire_home,0,-22.911292300515786,-43.17674729973078,151,251
+17,1019579312858262864,Apartamento no Centro de Niterói,entire_home,"4,79",-22.8941782,-43.1208866,159,234
+18,1227755177805704234,Apartamento a 3 m a pé do palace,entire_home,0,-22.9642996,-43.1795215,170,220
+19,1034322926390287923,"Loft na Lapa, Santa Teresa, Centro",entire_home,"4,78",-22.9124346,-43.1904406,175,325
+20,1152333461239239905,2 quartos prox. CorcovadoFlorest,entire_home,0,-22.94772,-43.26055,174,212
+21,936328794308216770,"Quitinete perto da UFF, das barcas e da praia",entire_home,"4,71",-22.90094244354976,-43.12633225030939,171,171
+22,1150543343238677473,Casa,entire_home,0,-22.8983201,-43.284043,171,171
+23,1071838665450915392,Cantinho no centro do Rio,entire_home,"5,0",-22.91507,-43.18464,184,274
+24,1177550025792335596,Studio Home Leblon,entire_home,0,-22.98228,-43.22418,183,268
+25,1073414394473211725,Urban São Cristóvão,entire_home,0,-22.888902310018683,-43.22146363341321,185,285
+26,1019050238915588279,Quarto de serviço  aconchegante para mulheres,entire_home,0,-22.991863502645174,-43.253069107455964,183,183
+27,1104975186327020731,Apartamento completo ao lado do Sambódromo,entire_home,"5,0",-22.9093161033637,-43.19389298558235,190,240
+28,1118677526078583404,Apartamento Praça da Bandeira-Tijuca Blue Utile,entire_home,"5,0",-22.914873087862293,-43.21238245815039,191,209
+29,1218931929997799683,Charmoso office em casa de época,entire_home,0,-22.9164073,-43.182709,188,408
+30,14294532,Bangalo aconchegante a 4 quadras praia Sao Franc,entire_home,"4,82",-22.91757,-43.08861,187,302
+31,1152240625938402138,Apartamento completo de 57m² no Rio de Janeiro,entire_home,0,-22.90836,-43.17679,194,374
+32,680280249554921578,Melhor vista para um casal feliz  vidigalzando!,entire_home,"4,38",-22.9949846,-43.2412603,195,294
+33,1111473861401393196,Centro RJ - 2 dorms - 57m²  - Cama Casal e sofa,entire_home,"3,6",-22.9103,-43.1772,195,375
+34,1213063773014650163,Apto quarto e sala com piscina!,entire_home,0,-22.91528,-43.18814,195,415
+35,973908550103367240,Centro RJ - 1 dorm - 57m² - Cama Casal,entire_home,"5,0",-22.910219224519505,-43.177081432743556,195,375
+36,858863402650029319,Kitinet405 simples 1 quarteirao praia Copacabana,entire_home,"3,86",-22.96405478543118,-43.17655485123396,199,249
+37,54355698,Apartamento Barra da Tijuca — Ilha da Gigoia,entire_home,"5,0",-23.00383,-43.30932,199,199
+38,13614064,"""São Francisco, 5 min da praia caminhando Niterói,",entire_home,"4,54",-22.91941,-43.08879,198,313
+39,1004234204700222085,Hope village,entire_home,0,-22.8476,-43.25742,200,200
+40,837853004135078527,Apartamento completo em Copacabana!,entire_home,0,-22.970166884419534,-43.184908222031105,199,399
+41,1222021371583805939,Estúdio no coração do Rio,entire_home,0,-22.91287,-43.18384,205,305
+42,54279029,Belo apartamento a 150mts da praia,entire_home,"3,91",-22.96539306640625,-43.178550720214844,207,407
+43,690531081117592532,"Rio de Janeiro 
+Ap. Lindo,  ótima localização",entire_home,"5,0",-22.92112,-43.18034,205,205
+44,1217429544027236623,Casa em vila universitária,entire_home,0,-22.89800555597213,-43.12627358965768,205,205
+45,1223451911044020059,Hospedagem Rock in Rio,entire_home,0,-22.897983348033268,-43.18379541179,204,354
+46,42364708,Estúdio 12 (Novo) Lapa/ Santa Teresa,entire_home,"4,92",-22.9158,-43.18616,210,249
+47,1184225441056844718,kitnet no Vidigal,entire_home,0,-22.99605,-43.2411,211,211
+48,794943118184108966,Palácio do Samba,entire_home,"4,25",-22.902837351859127,-43.20428730592797,212,262
+49,2168644,Quarto e sala na Lapa,entire_home,"4,54",-22.91203,-43.19007,211,411
+50,33834811,Praticidade e elegância (perto  Ponte Rio/Niterói),entire_home,"4,87",-22.86276,-43.09468,217,217
+51,35648316,APARTAMENTO VISTA PARA O CRISTO REDENTOR,entire_home,"4,71",-22.93411,-43.19131,215,365
+52,1202451775310666293,Apartamento no coração da Lapa,entire_home,0,-22.9108754,-43.18480659999999,217,337
+53,1200205666936126880,apartamento calmo,entire_home,0,-22.864438503214842,-43.29458914408326,219,219
+54,1222042629383362748,Apto frente Shopping/ BRT/ Metrô,entire_home,0,-22.84754,-43.30963,217,217
+55,857385636446924971,Lindo Conjugado completo,entire_home,0,-22.917818791571964,-43.17972209102435,216,216
+56,1218798831365417413,Cantinho em Botafogo,entire_home,0,-22.9494664,-43.1822391,223,223
+57,50598196,Loft encantador ao lado da Lapa e sambódromo,entire_home,"4,85",-22.91265,-43.18583,222,342
+58,1221039342688157940,Apartamento bem localizado,entire_home,0,-22.963104895494297,-43.17771524190903,220,370
+59,19732573,Apartamento de 1 Quarto - Copacabana,entire_home,"4,74",-22.97445,-43.1901,238,388
+60,655233228812006561,"Doce amor, Florais de Santa .",entire_home,"5,0",-22.93091,-43.19812,241,341
+61,1047781561174941792,Rio Rentals 021 - C028 Apartamento reformado na qu,entire_home,"3,25",-22.965257622141078,-43.17511522907239,240,456
+62,1122473738170595265,apartamento no centro da cidade,entire_home,0,-22.9108325,-43.1934768,241,331
+63,1179097625102704082,Charmoso Loft/casa em Botafogo,entire_home,0,-22.957932,-43.194391,246,246
+64,4865799,BAIRRO MAIS CHARMOSO DO RIO,entire_home,"4,62",-22.98187,-43.22183,245,365
+65,1014558205239244526,Estúdio c WiFi e boa localização na Cinelândia/RJ,entire_home,"3,33",-22.90897491920293,-43.178583129403414,245,375
+66,953792453692492416,Loft em Santa Teresa,entire_home,0,-22.921261656192346,-43.18582942086075,245,365
+67,736375085106563396,Casinha na cidade com natureza,entire_home,0,-22.91426,-43.26648,244,374
+68,1217581354039591234,Apartamento em Copacabana,entire_home,0,-22.963741713977296,-43.17835238402673,306,456
+69,734796232766574545,Apartamento Mobiliado: Próximo Marinha e Galeão,entire_home,"4,84",-22.8376542,-43.2748707,251,371
+70,28625587,Relaxar e se divertir em Copacabana,entire_home,"4,71",-22.98195,-43.19482,248,248
+71,1186981895718380563,Copa appart 4p,entire_home,0,-22.963359538393732,-43.1748362447723,306,456
+72,709281784155582893,casa 1 quarto sala com cozinha americada e banheir,entire_home,0,-22.9160186,-43.1908708,251,251
+73,701617050854648383,Casa na barra da Tijuca,entire_home,0,-22.99882,-43.31044,248,398
+74,40489446,Novíssimo Loft em  Ipanema.,entire_home,"4,85",-22.98353,-43.1952,256,456
+75,22189580,Cantinho tranquilo,entire_home,"5,0",-22.83544,-43.31417,254,359
+76,7438352,Apartamento Conjugado Na Glória,entire_home,0,-22.91878,-43.17932,256,456
+77,1128325902770212224,"Apartamento inteiro em Copacabana, 5min de Ipanema",entire_home,"4,67",-22.98604543903738,-43.19043330305788,262,382
+78,1221089499783707830,Flat copa Rio,entire_home,0,-22.975589,-43.1925665,258,258
+79,1114540819471791315,Lindo Apartamento na Praia de Botafogo  - Zona Sul,entire_home,"4,96",-22.946161183076615,-43.1822108354431,262,422
+80,1044240959426072815,Apartamento em Copacabana - 100% reformado,entire_home,"4,27",-22.9714766,-43.1892632,265,445
+81,1221836250072995362,Apartamento Novo com Vista Deslumbrante | SkyLux,entire_home,0,-22.899004428247995,-43.17804090717081,269,369
+82,1037615796427449505,Cantinho Aconchegante Botafogo,entire_home,"5,0",-22.941532841568712,-43.18100295960903,272,422
+83,54020259,Cond resid com elevador rua tranquila.,entire_home,"4,92",-22.923385620117188,-43.24334716796875,270,320
+84,1181786088207678532,Apartamento no coração do Rj,entire_home,0,-22.9144433,-43.2052969,274,274
+85,1050776546320312407,Copacabana Palace (Home Office),entire_home,"4,67",-22.9656201,-43.179405,272,522
+86,1181856698731548332,Museu histórico da cidade,entire_home,0,-22.980178618270074,-43.24039216502388,274,274
+87,1193005795748317927,Apartamento perto de tudo,entire_home,0,-22.8651158,-43.2952403,274,274
+88,1147189610217273014,casa temporada em Santa Teresa,entire_home,0,-22.92631,-43.1919,274,274
+89,809669059243342017,Studio na Praia de Botafogo,entire_home,"4,93",-22.94503888015619,-43.18253795396729,277,402
+90,1222607196113945891,Incrível Apartamento com Vista Mar | SkyLux,entire_home,0,-22.89894328818149,-43.1780640040666,279,379
+91,31779502,Vidiga Ocean View,entire_home,"4,95",-22.9986,-43.23909,278,388
+92,51785373,Se hospede no coração da boemia,entire_home,"5,0",-22.914048014736178,-43.1858004970486,278,428
+93,1086914490773974141,"Casa agradável, bem localizada",entire_home,0,-22.9545059,-43.2004691,279,399
+94,659361655691049810,COPA CRIATIVE,entire_home,0,-22.9649988,-43.1754618,278,428
+95,808060271039109978,Apartamento encantador com pátio,entire_home,"3,4",-22.9683537,-43.1823213,285,285
+96,1221054792424006715,Apartamento estiloso reformado em Copacabana,entire_home,0,-22.983418032813923,-43.192518125883275,284,434
+97,1060301709838904645,Um Studio em Niterói para trabalho ou para lazer!,entire_home,"4,96",-22.91948679426624,-43.09240396709969,282,362
+98,1213380096080928484,Ipanema General Osório 24h,entire_home,0,-22.9848106,-43.19896019999999,282,542
+99,732783795031879931,Em Promoção: Copacabana Vista Mar Lateral,entire_home,"4,76",-22.97461,-43.18935,283,682
+100,1078291024051234695,Apartamento aconchegante,entire_home,0,-22.9276463,-43.2131207,285,285
+101,2882788,Apartamento aconchegante,entire_home,0,-22.84199,-43.29682,285,285
+102,697018310346569100,Apartamento na quadra da praia,entire_home,"5,0",-22.96522,-43.17757,286,536
+103,1183351021722539336,Aconchegante Apt com Vista Mar,entire_home,0,-22.9647066,-43.1755453,290,290
+104,1208739178114831968,Apt Guinle II,entire_home,0,-22.952169246907037,-43.18699666825409,304,394
+105,22664117,"Ipanema, quarto e quarto 701",entire_home,"4,34",-22.98515,-43.21187,303,553
+106,2967278,Apartamento Copacabana 876 A,entire_home,0,-22.97592,-43.18915,304,434
+107,1226935724198641906,apartamento em copacabana,entire_home,0,-22.965379610328355,-43.17751272766741,306,456
+108,779871472757460252,Suíte Tranquilidade Icaraí,entire_home,"4,99",-22.91234,-43.10746,311,311
+109,39396932,Praia de Ipanema posto 8,entire_home,"4,74",-22.98585,-43.1945,311,491
+110,1073939469790754214,conjugado perfeito para seu laze,entire_home,"5,0",-22.98074,-43.21594,312,512
+111,750226753173685687,Casinha agradável,entire_home,0,-22.83513,-43.31426,308,448
+112,21110872,Apartamento Hilário de Gouvêia Copacabana,entire_home,"4,52",-22.96769,-43.18502,314,354
+113,33968828,Copacabana apartamento aconchegante e silencioso.,entire_home,"4,88",-22.98079,-43.19341,318,468
+114,698412827046113174,Conjugado com ótima localização em Copacabana 532,entire_home,"4,67",-22.981975449339956,-43.194977221678194,314,514
+115,1226847707773584047,Apartamento em Rio de Janeiro,entire_home,0,-22.9289803,-43.1754066,314,514
+116,5220801,Condomínio Santa 1016,entire_home,0,-22.97186,-43.18894,319,319
+117,969615827903334596,Flat / Apart Hotel em Copacabana próximo a praia,entire_home,"4,94",-22.965445187527923,-43.181137070059776,319,399
+118,1228932456356633691,Apartamento em Copacabana,entire_home,0,-22.96718,-43.18629,399,399
+119,690600683991184801,Apartamento Copacabana Princesinha do Mar,entire_home,"4,84",-22.96668,-43.18297,321,571
+120,10279456,Wi-Fi 80Mbps-2 Suíte-Close to the Beach-Breakfast,entire_home,"4,67",-22.98356,-43.23018,331,594
+121,1157938595825155372,Copacabana,entire_home,0,-22.97875,-43.19042,318,318
+122,1188280405583932895,Casa Vidigal pé na areia,entire_home,0,-22.995340988753124,-43.237061528022686,320,320
+123,48314467,"Apartamento 1 quarto ,cozinha americana e banheiro",entire_home,0,-22.91731,-43.191,320,320
+124,973308183840051797,Apartamento Praia Barra com garagem,entire_home,"4,93",-23.0137596,-43.2990833,326,406
+125,623006851590842002,Apto aconchegante com estacionamento interno.,entire_home,"4,74",-22.967697,-43.191135,334,434
+126,1197367479807840006,Copacabana Vista do Céu,entire_home,0,-22.965380505938594,-43.189153018368856,411,491
+127,1006383513434966567,Charme de Icarai,entire_home,"4,83",-22.90635,-43.11488,331,411
+128,744969836372981966,Apartamento em Botafogo,entire_home,"4,71",-22.951299720331736,-43.17794089516952,334,514
+129,1038985658707885155,"Vista Mar-Apto qto e sala  varanda, aconchegante.",entire_home,0,-22.928099408918076,-43.09203542768955,332,422
+130,823377158745956779,Barra à beira-mar,entire_home,"3,82",-23.00686,-43.31814,339,339
+131,1202793133302779632,"junto a praia, metrô, comércio.",entire_home,0,-22.964828387850364,-43.176589195737684,336,336
+132,22628829,Ipanema próximo a praia 717,entire_home,"4,59",-22.98498,-43.21063,338,588
+133,817262025529766086,Casa com acesso rápido a Copacabana-,entire_home,0,-22.966306372974838,-43.192995361981225,339,339
+134,22876224,Sala e quarto em Ipanema  417,entire_home,"4,24",-22.98485,-43.20964,338,588
+135,22876636,"Ipanema   sala e quarto , vista oceano. 816",entire_home,"4,67",-22.984307410231093,-43.21125216077628,338,588
+136,751326312408433616,"Conforto perto da praia, comércio, metrô, ônibus",entire_home,"4,92",-22.96783,-43.18407,342,342
+137,1211080704823882834,Apartamento na quadra da praia.,entire_home,0,-22.97767,-43.18837,342,342
+138,812939750380298559,Peq Suíte Casal,entire_home,"4,77",-22.981358410123974,-43.20481648229628,341,341
+139,852663582705936723,Apartamento luxo ilha da gigoia,entire_home,"5,0",-23.002940026953137,-43.308129588974595,342,342
+140,562339990936024255,"Apt encantador em Copacabana, 50M da praia posto 3",entire_home,0,-22.9667,-43.18252,345,445
+141,933242755762787603,Café com o Cristo,entire_home,"4,85",-22.95464839105574,-43.20089967437532,345,445
+142,1049307922844577713,Casa inteira em Icaraí,entire_home,0,-22.90678547147205,-43.108663210706126,342,342
+143,1189235017953886730,praia do sul,entire_home,0,-22.97255277794779,-43.18866562008603,342,342
+144,1175489962464192316,Casa para alugar por temporada,entire_home,0,-22.9957,-43.23464,345,365
+145,1193494505220108276,Apartamento Loft  Barra,entire_home,0,-23.012109414691537,-43.299454575219464,342,342
+146,41957315,Apartamento com linda vista em Santa Teresa,entire_home,0,-22.91694,-43.19043,342,342
+147,696372343844715863,Curta o Rio junto a natureza da Floresta da Tijuca,entire_home,0,-22.97465407948084,-43.281263932585716,342,342
+148,731929005548575701,Studio 200m da Praia de Ipanema | VP 463/708,entire_home,"4,69",-22.98383,-43.20989,348,548
+149,2046481,ESTÚDIO 🔝 NO  LEBLON,entire_home,"4,76",-22.98223,-43.22319,351,571
+150,1229157967486048768,Copacabana Charmoso,entire_home,0,-22.97254,-43.1889,348,548
+151,5335807,Apartamento no coração da boemia.,entire_home,"4,92",-22.92518,-43.1767,347,377
+152,32584451,Loft Aconchegante Centro Niterói / RJ Inter 1Gb,entire_home,"4,71",-22.89363999478714,-43.12134325504303,351,468
+153,1182546711705400565,"bem localizado, iluminado seguro",entire_home,0,-22.96013681743035,-43.201434805939954,363,363
+154,1223463374256464626,g20 Rio de janeiro venha curtir,entire_home,0,-22.96328,-43.18189,365,365
+155,607928718110410220,Princesa do mar Copanema 50m da praia X Ipanema,entire_home,"4,57",-22.9831,-43.19198,367,547
+156,1209547765308402322,Seu Refúgio ao Pé do Cristo,entire_home,0,-22.943062063863483,-43.19910342002236,365,365
+157,1211604797799809064,Apartamento Santa Teresa,entire_home,0,-22.92007685469588,-43.18490792065858,456,456
+158,683262506061618862,Condomínio encantador com piscina,entire_home,"4,27",-22.90503,-43.24239,364,514
+159,752685,Apart em Copacabana Rio Janeiro,entire_home,"4,8",-22.96351,-43.17191,368,548
+160,4287529,Copacabana Rio de Janeiro,entire_home,0,-22.96197,-43.1703,368,548
+161,1036607163621517728,Studio em Copacabana,entire_home,0,-22.985773547687664,-43.190115429461,374,434
+162,54056845,Lev Apartments - Apto Copacabana - 300m da praia,entire_home,"4,47",-22.962864,-43.175606,374,474
+163,53986103,Lev Apartments- Studio Copacabana P5 400m da Praia,entire_home,"4,24",-22.977295,-43.192619,374,474
+164,10172742,botafogo 1011,entire_home,0,-22.94874,-43.18402,383,383
+165,573926165291408991,Loft encantador de 1 quarto no centro do Rio de Janeiro,entire_home,"4,85",-22.91703,-43.17702,390,434
+166,20134648,"9º andar, recém-reformado a 2 min da praia.",entire_home,"4,54",-22.96612,-43.18317,386,706
+167,1226281166924765416,Stúdio MAC,entire_home,0,-22.979779008007167,-43.22272740304469,388,388
+168,50589850,Casa inteira - 3 andares - condomínio fechado,entire_home,"4,96",-22.92032,-43.20941,385,685
+169,690769330273423626,"<Espetacular Coraçâo Leblon
+ Prox Praia metro",entire_home,0,-22.98221,-43.22311,394,394
+170,929658836788562980,Apartamento praia de Copacabana,entire_home,"4,97",-22.964218083755547,-43.177179135382175,399,399
+171,6337853,Apê residencial a 50m da praia.,entire_home,"5,0",-22.98490174043187,-43.21180575952347,399,399
+172,1209740827353694615,Praia Copacabana (Novo e ótimo custo benefício),entire_home,0,-22.97143016626473,-43.18506147712469,398,398
+173,1772732,Prudent Ipa 205,entire_home,"4,74",-22.98666,-43.19837,410,575
+174,783181329652061364,Condomínio com piscina,entire_home,0,-22.86402,-43.09765,399,399
+175,11550822,confortável -  metrô  próximo- Flat,entire_home,0,-22.93715,-43.17559,399,399
+176,2818928,Leblon com vista para a Lagoa,entire_home,0,-22.98474,-43.21634,399,399
+177,1772800,307 perto de Ipanema,entire_home,"4,4",-22.98238,-43.19233,410,575
+178,6213104,Cobertura Prudent 02,entire_home,"4,7",-22.98482,-43.19906,410,575
+179,1133284271266627155,Apartamento na Lapa,entire_home,0,-22.91122,-43.18889,399,399
+180,1024705859393939465,Apto 2 quartos completo Penha,entire_home,0,-22.831588004981292,-43.279763604111906,399,399
+181,4000148,Ipa Pent prudente 02,entire_home,"4,6",-22.98681,-43.199,410,575
+182,2330025,vista maravilhosa do Leblon,entire_home,0,-22.98425,-43.21614,399,399
+183,8319458,Apartamento em Copacabana,entire_home,"4,33",-22.98482,-43.19142,405,685
+184,799459935660361825,lofth solteiro humaita,entire_home,"4,94",-22.95761411072282,-43.19957725703716,405,445
+185,558135166361121555,Apartamento colado no metrô e perto da praia,entire_home,"4,67",-22.96631,-43.18306,404,434
+186,1176876669303542832,Apartamento com sabor de casa em Santa Teresa,entire_home,0,-22.92636151228343,-43.18989843260651,403,553
+187,1102535376640163714,Mar e Montanha,entire_home,"5,0",-22.967041779404937,-43.19135930389166,407,407
+188,1763815,Ipa Prudente Penthouse ,entire_home,"4,5",-22.98634,-43.20033,415,415
+189,731272199382589775,Apartamento na Pedra do Sal,entire_home,"5,0",-22.89821,-43.18612,408,468
+190,1811801,Vinicius,entire_home,"4,66",-22.98405,-43.2034,415,415
+191,556622023916097055,"Apartamento aconchegante, pertinho da praia P5",entire_home,"4,6",-22.9779,-43.19331,414,514
+192,616010369776878612,Ap conjugado no Flamengo divisa com Botafogo.,entire_home,0,-22.939594,-43.175465,412,462
+193,1204376647077708500,Copacabana 800 metro praia Apt todo seuAri Barroso,entire_home,0,-22.96028,-43.17068,430,430
+194,1206829368726497819,Apartamento Botafogo,entire_home,0,-22.94326,-43.18735,433,593
+195,1032002355502592364,Apto varanda vista mar Charitas,entire_home,"4,78",-22.9254419,-43.0942443,431,656
+196,651422605494032135,XÍCARA EXPLENDIDO,entire_home,0,-22.9682661,-43.18369819999999,430,430
+197,1006756829395710623,Apartamento 104 na Praia do Flamengo,entire_home,"4,79",-22.9301996,-43.1741126,434,434
+198,1091248140781058453,"Apartamento, 2 Quartos, 1 suíte.",entire_home,0,-22.889871662700855,-43.295916714609355,434,434
+199,5131398,Apartamento moderno em Copacabana,entire_home,0,-22.97772,-43.19058,434,434
+200,2537583,Apê p/ Temporada - 5 Mins da Praia/Pedra da Gavea,entire_home,0,-22.99365,-43.25238,435,685
+201,10184012,Apto semi mobiliado,entire_home,0,-22.91298,-43.24251,434,434
+202,1041198752514561261,Apartamento em Ipanema 3 min até a praia andando.,entire_home,"5,0",-22.985369,-43.19561789999999,442,622
+203,2569225,Boemia Carioca ,entire_home,0,-22.92022,-43.18513,448,648
+204,3088560,COPACABANA - 12,entire_home,0,-22.96937,-43.18958,453,673
+205,867313667602886747,Apartamento(praia de Copacabana) Do lado da praia,entire_home,"3,83",-22.965759946776718,-43.17559710370439,460,485
+206,1218032755426497070,Paradiso Sanca,entire_home,0,-22.997572993623546,-43.25695753241123,456,456
+207,716876889838869460,"Apartamento charmoso
+em Copacabana",entire_home,0,-22.97505,-43.18881,456,456
+208,1067349905896448939,Feliz em Santa Teresa,entire_home,0,-22.915203831106318,-43.18924807012081,456,456
+209,52519268,Loft-201 a próximo praia,entire_home,"4,0",-22.91101,-43.10275,456,456
+210,1206857111304492783,Hapy in Santa,entire_home,0,-22.923685529131212,-43.19113835692406,456,456
+211,1133597383352972352,Apartamento Luxurystay4all com 1 cama,entire_home,0,-22.98162747240018,-43.19235759971639,464,514
+212,51487640,Apartamento 3 quartos em Copacabana,entire_home,"4,79",-22.9779,-43.19037,463,713
+213,1136427346478228417,Apartamento clássico orla Copacabana,entire_home,0,-22.9719757,-43.1921223,464,514
+214,822500735053710944,Paraíso em Copacabana,entire_home,0,-22.969077653452324,-43.184729189310445,462,502
+215,676983,Penthouse ipanema,entire_home,"4,75",-22.98399,-43.20804,474,639
+216,1219896143515188151,Lindo Loft em Laranjeiras!,entire_home,0,-22.93573,-43.18881,466,466
+217,1194400311144698498,Espaçoso e aconchegante,entire_home,0,-22.96354777997521,-43.17423227805887,468,548
+218,1049270777877436014,Apartamento em Ipanema,entire_home,0,-22.9805281,-43.2023007,470,720
+219,53731982,FLAT no coração do Leblon a 150 metros da praia!,entire_home,"4,61",-22.98416,-43.22719,476,656
+220,32357223,Linda casa em rua calma com vista para o Cristo,entire_home,"4,75",-22.95775,-43.20133,476,625
+221,904439909789715453,Studio vista Mar,entire_home,"4,96",-22.96409298041969,-43.1750049292077,480,650
+222,694026052847080248,Espaço Ritz Copacabana,entire_home,"5,0",-22.96871,-43.18581,478,628
+223,763538134906941044,Apartamento aconchegante e encantador em Ipanema,entire_home,0,-22.97828,-43.19968,482,662
+224,1082152989156852232,"Casa de praia em jacone, Saquarema.",entire_home,0,-22.9252227,-43.2143264,478,628
+225,271975,Apartamento com vista para o mar inacreditável,entire_home,"4,14",-22.99508,-43.23604,478,628
+226,10231588,Apartamento Charmoso★★★★★ perto da Praia do Leblon,entire_home,"4,85",-22.98402,-43.22998,510,773
+227,1182724928549947050,By Mascaro- 350 Mega WiFi- 3 quartos,entire_home,"5,0",-22.972082113434922,-43.19225013256073,500,760
+228,1879333,Ipa Prudente 1108,entire_home,"4,57",-22.98668,-43.20034,511,511
+229,655733416922243715,Copa Luxor,entire_home,0,-22.971629,-43.1875368,510,660
+230,608123896849276277,Apartamento em Copacabana - RJ,entire_home,0,-22.98005,-43.19282,514,514
+231,22626168,Posto 9 ipanema 207-704,entire_home,"4,42",-22.98403,-43.2024,515,765
+232,585387881086363613,"Copacabana, Apartamento pequeno, mas confortável",entire_home,"5,0",-22.97265,-43.19196,514,514
+233,1221008920405831959,Edifício histórico: incrível praia do Flamengo,entire_home,0,-22.9355331,-43.1745081,513,913
+234,1079919816758212705,Apartamento Santa Teresa  Vista do Alto,entire_home,"5,0",-22.930387813413187,-43.195766508579254,514,514
+235,1215084733006511996,Apartamento 1 quarto engenhão,entire_home,0,-22.89163,-43.28536,514,514
+236,1129745195489580306,Aparto Behind Copacabana Palace,entire_home,0,-22.9663756,-43.17933730000001,514,664
+237,1071713095792838317,Copacabana / Rio de Janeiro,entire_home,"5,0",-22.9621149,-43.1769144,518,718
+238,1205963548743640126,Rock in Rio em Copacabana!,entire_home,0,-22.96596,-43.17491,519,519
+239,2717180,2 quartos aconchegantes no Leblon,entire_home,"4,73",-22.98307,-43.22372,528,801
+240,47996320,Apartamento inteiro-Copacabana a 500m da praia.,entire_home,"4,83",-22.97323,-43.19094,528,628
+241,1085767755248594372,Casa próxima á praia,entire_home,0,-22.9641358,-43.1898909,531,531
+242,1215103392623428792,Ipanema Studio pertinho de tudo!,entire_home,0,-22.98397,-43.19478,535,685
+243,1025371853764552246,Apartamento aconchegante,entire_home,"5,0",-22.93901,-43.17794,533,561
+244,1155303921720415447,Rio Camarote VIP Executivo Samba Maracanã Museus,entire_home,0,-22.92601288430284,-43.255687564750396,535,835
+245,754447916944179913,Apt. com vista deslumbrante e ótima localização,entire_home,"4,92",-22.9267519,-43.1735473,542,742
+246,1091497391498645922,Engenhão jogos shows jto. Barra,entire_home,0,-22.89375,-43.29965,549,699
+247,584034938955469245,Tim304| Estúdio moderno No Alto-Leblon,entire_home,"4,6",-22.98413848876953,-43.232765197753906,556,806
+248,1084819331767439725,Apartamento aconchegante no Estácio,entire_home,0,-22.91671151762582,-43.207954329638675,557,625
+249,856435034922273644,Cantinho do Rio 2. Conforto e Lazer!,entire_home,0,-22.910752258162347,-43.20109601807199,556,857
+250,1197291349439617166,Copacabana Beach!,entire_home,0,-22.966202644687492,-43.192133872782264,560,560
+251,9192648,Condo visco 501,entire_home,0,-22.98472,-43.20946,575,575
+252,646360579738934457,Maravilhosa de Copa,entire_home,0,-22.97329,-43.1867,560,710
+253,651375635621983538,OCEAN COPA,entire_home,0,-22.9798,-43.19047,560,710
+254,9748445,condo melo 101,entire_home,0,-22.98366,-43.19753,575,575
+255,844098274143174571,Cobertura c/ Varanda a 300m da Praia | LM 82/C01,entire_home,"4,89",-22.974404015055566,-43.191850808478904,570,790
+256,51492579,Flat no Forte de Copacabana,entire_home,"4,95",-22.98686,-43.19015,571,571
+257,1080431850391670589,Melhor localização de Copacabana,entire_home,0,-22.975636915163243,-43.193018920719624,571,571
+258,45563869,Apartamento aconchegante praia DA Barra,entire_home,0,-23.01517,-43.29836,571,571
+259,989384710982678388,Cidade maravilhosa Leme -Rj,entire_home,0,-22.9632949,-43.17187819999999,571,571
+260,1169523898887581146,alugo apartamento rock in rio,entire_home,0,-22.96964,-43.18547,569,719
+261,3023016,NOVO APTO EXCELENTE LOCALIZAÇÃO,entire_home,"4,75",-22.96272,-43.16624,571,571
+262,4750172,AP no Jardim Botânico ,entire_home,0,-22.95782,-43.20285,571,571
+263,11297933,Apartamento 3km do estádio Maracanã,entire_home,0,-22.90205,-43.25128,571,571
+264,902851690775164465,Apartamento VistaRio,entire_home,"4,82",-22.90335514705016,-43.1346488319329,571,661
+265,681269140290020397,Novissímo Estúdio em Ipanema próximo à Praia,entire_home,"4,96",-22.9828,-43.1998,579,799
+266,1111504460391368913,Apartamento Vista Ponte,entire_home,"5,0",-22.90221719423956,-43.13470892798871,578,668
+267,1021099784380360498,Bonito e Confortável (acesso para Corcovado),entire_home,"5,0",-22.942638074665734,-43.19260495219968,585,685
+268,704470730191017053,Apartamento em prédio encantador - próx ao Cristo,entire_home,0,-22.93491353658468,-43.200658187270164,585,685
+269,578912564707545937,Cantinho aconchegante em Santa Teresa,entire_home,"5,0",-22.91626,-43.1881,582,662
+270,3124781,3 Quartos Copacabana - Próximo à Praia,entire_home,"4,77",-22.966157913208008,-43.178611755371094,588,726
+271,14253754,Apart. 2 Bedroom Botafogo- vista p/ Pão de Açúcar,entire_home,"4,96",-22.94287,-43.18336,587,924
+272,1083307893362791234,Copacabana,entire_home,0,-22.96354,-43.17523,590,890
+273,2664136,Estúdio Ipanema com vista encantadora jardim até 3 hóspedes,entire_home,"4,76",-22.98696,-43.19478,615,856
+274,1212574202283666070,Suíte Confort Copa Casal e Filho,entire_home,0,-22.9741804,-43.1892292,593,593
+275,1024449242121997394,Casa Carambola,entire_home,0,-22.955013117089422,-43.17204438149929,596,796
+276,51768719,Visc303| Quarto e Sala próximo a Praia de Ipanema,entire_home,"4,36",-22.983993530273438,-43.20395278930664,597,847
+277,782478322520128162,Rio Rentals 021 - T029 apartamento de luxo de 3 quartos (1 suíte) em Copacabana.,entire_home,"4,25",-22.97711,-43.19099,600,840
+278,739206012254877450,2 Qtos Reformado - Terraço c/ Vista - 5min Metrô,entire_home,"5,0",-22.9336,-43.24357,600,800
+279,1056901091158778636,Localizaçã  perfeita  em Copa,entire_home,0,-22.96867,-43.18281,600,810
+280,765347637383144479,Loft em Copacabana para Ano novo,entire_home,0,-22.966667573322805,-43.18948102338526,600,650
+281,716628963855780124,Apartamento Rio de Janeiro,entire_home,"4,6",-22.96951,-43.18704,599,799
+282,1065268937993987848,Cultura boêmia l Quarto Deluxe. Bar,entire_home,0,-22.91293,-43.17053,606,606
+283,1227139095151753810,excelente prédio e localização,entire_home,0,-22.97872,-43.22334,628,628
+284,1229636749808071720,Copacabana simples,entire_home,0,-22.9694715,-43.1845783,628,628
+285,1044680445761532245,Amapola V,entire_home,0,-22.977121995580593,-43.19195656065096,628,628
+286,850066,Vinicius,entire_home,"4,0",-22.98379,-43.20211,639,639
+287,53590282,Apartamento Encantador na Barra da Tijuca,entire_home,0,-23.00342,-43.30948,628,628
+288,12090388,"condo vis 401, ipanema",entire_home,0,-22.98441,-43.19498,639,639
+289,697054075984815139,Réveillon em 2024,entire_home,0,-22.96577,-43.18623,628,628
+290,2893442,World Cup for 4 people. ,entire_home,0,-22.92475,-43.17956,628,628
+291,14282692,Tijuca Apartamento para até 6 pessoas,entire_home,0,-22.921611785888672,-43.21779251098633,636,836
+292,21889834,"Flat na Rua Santa Clara, 15 Copacabana.",entire_home,"4,69",-22.97267,-43.1864,637,886
+293,1229248691034495838,Apartamento Copa Posto 2,entire_home,0,-22.9636528,-43.1751956,639,639
+294,651366386884088672,COPA FLOR,entire_home,0,-22.9647066,-43.1755453,640,790
+295,1016857378652010300,"Mobiliado, excelente localização",entire_home,0,-22.993448151576104,-43.25483105408286,637,817
+296,954934123040371255,Av Atlântica - Apartamento de Praia de 3 Quartos - Leme,entire_home,"4,79",-22.9625398,-43.1685096,650,1090
+297,45824319,"Lindo apto Copacabana, quase na esquina da praia",entire_home,"4,94",-22.96963,-43.1815,657,867
+298,793748167792226683,Encantador apartamento em Ipanema,entire_home,0,-22.980953900650267,-43.19951521987404,656,856
+299,1763878,Ipa barao 406,entire_home,"4,0",-22.98233,-43.20212,675,894
+300,769594382741494677,Aconchego do Flamengo,entire_home,"4,33",-22.929125499391773,-43.1743735447526,656,856
+301,30783346,"Ótimo apt Copacabana, 20 metros da praia",entire_home,"4,86",-22.97062,-43.18219,657,867
+302,1217346692931894317,Cores do Rio | Apartamento aconchegante,entire_home,0,-22.934858756276235,-43.18023868056521,660,810
+303,13710960,Excelente Apto em Copacabana- Novinho!,entire_home,"4,67",-22.96411,-43.17569,663,913
+304,12344877,Lindo Qto e Sala em COPACABANA!,entire_home,0,-22.96416,-43.17504,663,3163
+305,17712025,Loft AP4 | Ipanema - by Injoy (Estadia curta e longa),entire_home,"4,72",-22.98149,-43.20556,667,667
+306,788950259394201885,"3 Quartos 2 banheiros entre Copa, Ipanema Arpoador",entire_home,"4,85",-22.98683828526705,-43.19320261585194,671,1053
+307,396849,Ff702| 3 Quartos no Leblon,entire_home,"4,72",-22.980856,-43.2206,687,1037
+308,1198707348721722001,alugo pro Rock in Rio  2 quartos Tijuca,entire_home,0,-22.92446925495984,-43.240515142679214,687,687
+309,1029156564715857885,Casa aconchegante com terraço,entire_home,0,-22.93731,-43.18966,686,856
+310,1229769280029080258,Leblon perto praia,entire_home,0,-22.9800477,-43.220278,695,945
+311,5135263,Cobertura próximo ao Estádio do Engenhão,entire_home,0,-22.88847,-43.27898,695,915
+312,675276209220079568,"Conjugadão em Copacabana, a 100 metros da praia.",entire_home,0,-22.9639478,-43.17515880000001,706,856
+313,958044524389425363,Lindo Apartamento Retrofit no Flamengo,entire_home,"4,89",-22.9258824,-43.1771095,713,913
+314,775353049580471244,2Qtos a 350m da praia de Copacabana | TA 28/401,entire_home,"4,8",-22.97026,-43.18714,709,994
+315,1065268090518087431,Cultura boêmia l quarto único. Bar,entire_home,0,-22.91229,-43.17072,713,713
+316,1019440963049531034,Quarto-sala aconchegante na Lapa,entire_home,0,-22.914413540609765,-43.189303239326435,713,913
+317,597717061951316256,Apto TOP em Copacabana,entire_home,"4,6",-22.97767,-43.19159,720,970
+318,1227589961548127214,Suíte no Hotel Nacional - RJ,entire_home,0,-22.997160493061962,-43.240569280350826,729,729
+319,1029962818975506647,alugo está casa,entire_home,0,-22.990224228838223,-43.253862153009024,730,730
+320,11522866,condomínio gomes 704,entire_home,"5,0",-22.98611,-43.19503,766,766
+321,11522647,condomínio gomes 704,entire_home,"5,0",-22.98512,-43.19477,766,766
+322,441118,"IPANEMA apts reformados, internet",entire_home,"4,8",-22.98479,-43.19978,766,766
+323,11174621,condo fco ota 307,entire_home,0,-22.98866,-43.19368,766,766
+324,850820950357008177,The Enchanted House,entire_home,0,-22.914546976086406,-43.17597884684801,747,747
+325,689109495704745398,Moderna Acomodação Copacabana RJ >Confira!,entire_home,0,-22.9674,-43.18375,766,1295
+326,1061008300618694159,Apartament em condomínio seguro com 2 quartos,entire_home,0,-22.8998684,-43.2280083,776,776
+327,1722384,Barao 406 ipanema,entire_home,"4,75",-22.98427,-43.20279,802,1021
+328,24474214,Mezanino Varanda| Ipanema - Desfrute (estadia curta e longa),entire_home,"4,66",-22.98099,-43.20608,791,791
+329,840834059496551855,Lindo Apartamento - Posto 9 - Ipanema,entire_home,"4,33",-22.981407108505024,-43.2006522448765,794,844
+330,42900784,Olha aqui essa vista da Praia!,entire_home,0,-22.9733894,-43.1867053,800,1040
+331,54033232,Apto Condomínio Costa Azul com piscina e sauna,entire_home,0,-22.99305,-43.23489,799,959
+332,800898119884453902,Mansão colonial para locação de quartos e espaço!,entire_home,0,-22.92875050790705,-43.186708109316065,799,799
+333,1043620042876548307,Venha passar Carnaval à 20min da Lapa!,entire_home,0,-22.91641,-43.18528,799,799
+334,821162254790746736,Ambiente tranquilo e familiar,entire_home,0,-22.849277089333434,-43.27578358464999,799,799
+335,820041,prudente 108 ipanema,entire_home,"5,0",-22.98424,-43.20694,830,830
+336,10097705,antopar do condomínio,entire_home,"4,33",-22.98444,-43.19493,830,830
+337,9206396,condo bartor 19801,entire_home,0,-22.98479,-43.19683,830,830
+338,689970117018401805,Apartamento 2 quartos zona sul do Rio - Flamengo,entire_home,0,-22.93956,-43.1757,813,913
+339,3193307,Vista privilegiada do Rio,entire_home,0,-22.98582,-43.24727,812,907
+340,8627462,Penthouse Maria,entire_home,0,-22.98116,-43.20718,830,830
+341,1219493718494559303,apartamento na Zona Sul do Rio,entire_home,0,-22.9342321,-43.1866661,822,822
+342,1040790746229502907,Venha curtir o Réveillon,entire_home,0,-22.967454457038425,-43.185389644748895,830,1210
+343,43997610,"Novo, moderno, dois quartos com Super localização!",entire_home,"4,63",-22.98792,-43.22963,838,952
+344,53153648,Casinha delícia em rua tranquila perto do furdunço,entire_home,0,-22.95733,-43.19909,844,844
+345,10065203,condomínio vis 6044,entire_home,0,-22.98536,-43.19538,862,862
+346,1140862824291193907,Apartamento Copacabana.,entire_home,0,-22.98234,-43.19582,856,856
+347,1228541658957392292,Casa aconchego,entire_home,0,-22.9475,-43.16227,856,856
+348,5402875,Design Loft e a vista mais linda do Rio!,entire_home,"4,94",-22.93561,-43.19991,878,1001
+349,1057437138121833305,Belo apartamento com vaga de garagem C059,entire_home,"4,8",-22.964525,-43.1740708,860,1010
+350,19477214,Luxo e aconchego no melhor ponto de Ipanema,entire_home,"4,85",-22.98292,-43.20881,861,1141
+351,671671915808386244,Apartamento para até 5 pessoas em Copacabana,entire_home,"4,18",-22.964525,-43.1740708,860,1010
+352,45669539,Apartamento a poucos passos da praia,entire_home,"4,43",-22.963356,-43.174809,860,1010
+353,880248187507060084,Apto Ipanema Posto 9 c/ Suíte,entire_home,0,-22.984072428128062,-43.20123491582476,863,1153
+354,1083971067984829690,Apartamento copacabana 3 quartos,entire_home,0,-22.9670699,-43.1846347,884,1084
+355,776643425782891606,Casa Sorriso,entire_home,"5,0",-22.916031816029864,-43.237302736611426,904,964
+356,849477700863800245,Conjugado charmoso!,entire_home,0,-22.916439401669304,-43.18818759173155,906,906
+357,1227695726058447652,Apartamento grande naAtlântica vista mar,entire_home,0,-22.972032733109803,-43.18467356264591,913,913
+358,820064625717526397,Apartamento com área de lazer e vista para Cristo,entire_home,"4,67",-22.934882654326387,-43.1946012395494,913,913
+359,899529783408785177,"""4 Horas Sail Iate Tour Rio de Janeiro """,entire_home,0,-22.94327,-43.16102,913,913
+360,53992487,"Apartamento agradável e bem localizado, min 3 dias",entire_home,"4,33",-22.98479,-43.2072,913,913
+361,3246949,SALA E QUARTO PRAIA DE BOTAFOGO,entire_home,0,-22.94229,-43.18152,913,913
+362,2335690,"Copa 2014 - Apart 1,5 km Maracanã",entire_home,0,-22.90733,-43.24377,920,970
+363,1229759714300545468,Apartamento em Ipanema,entire_home,0,-22.98467775861524,-43.19704274492505,927,1027
+364,823960567971265519,Carnaval espetacular em Santa Teresa,entire_home,0,-22.9360115873044,-43.20216551571514,924,1004
+365,16122567,Apartamento São Conrado,entire_home,0,-22.99428,-43.25572,923,923
+366,809273308223516111,apart. Centro/Lapa/metrô 10 minutos de Copacabana,entire_home,0,-22.9110757,-43.1776542,930,1050
+367,11124577,condomínio visc 804,entire_home,0,-22.98373,-43.19474,989,989
+368,12954777,Apê da Dalza em Copacabana,entire_home,0,-22.96729,-43.18395,991,1141
+369,1212246251942430150,Sossego e paz no Centro do Rio!,entire_home,0,-22.90830163808377,-43.18195859152181,1005,1255
+370,908877533565749505,casa da thay,entire_home,0,-22.85049,-43.28224,1007,1007
+371,1222670618499158124,Apto Atlântica Vista Mar,entire_home,0,-22.96399,-43.17571,1016,1016
+372,1225954028031988785,Conforto e Requinte - Leblon,entire_home,0,-22.9824881,-43.21867779999999,1027,1027
+373,962416092865715908,Apartamento qd praia Copacabana,entire_home,0,-22.96231670717363,-43.17565089679412,1038,1118
+374,1153034101381290130,Maravilha na Barra da Tijuca |3 quartos| Pp101 Z10,entire_home,"4,67",-23.0148,-43.31102,1046,1446
+375,961619586377271041,Grande apartamento na praia de Copacabana,entire_home,"4,91",-22.9681972,-43.1805105,1058,1278
+376,10559664,Apartamento inteiro para casal,entire_home,0,-22.91691,-43.18106,1085,1469
+377,1142041251652932463,Apartamento aconchegante 2min da praia,entire_home,0,-22.96348,-43.1739,1084,1084
+378,711076110676101766,Loft aconchegante com vista para lagoa,entire_home,0,-22.96157,-43.19988,1084,1084
+379,2594098,Apartment Olympics Games - Maracanã,entire_home,0,-22.92151,-43.24121,1084,1084
+380,1200239581719611733,Aoartamento humilde,entire_home,0,-22.9708717,-43.1857601,1096,1096
+381,1036337132676252332,Lindo apart hotel!,entire_home,0,-22.907396953865497,-43.13092472739966,1141,1141
+382,1080998040340131811,Temporada  apto. 2 quartos quadra da praia Ipanema,entire_home,0,-22.98543187191714,-43.20076547563076,1141,1141
+383,3095899,Casa copacabana paz e amor,entire_home,"4,06",-22.9807,-43.19599,1141,1141
+384,53435619,Apto em Botafogo aconchegante,entire_home,0,-22.95484,-43.1808,1141,1141
+385,1039250858331898820,Promoção final do ano,entire_home,0,-22.94391,-43.18366,1141,1141
+386,1045611701259257714,Alugo por temporada de 10 dias 1000 reais o dia!,entire_home,0,-22.979247138738902,-43.19132405491168,1141,1141
+387,2930312,,entire_home,0,-22.92336,-43.21124,1141,1141
+388,14314615,Aluguel de quarto para duas meninas,entire_home,0,-22.90722,-43.17385,1141,1141
+389,31255852,Ipanema; Farme de Amoedo; quadra da praia.,entire_home,"4,75",-22.98659,-43.20079,1147,1347
+390,750818443976131489,Apartamento bem localizado em Copacabana + vista!,entire_home,0,-22.96803,-43.1885,1148,1198
+391,41136050,Apartamento 3 quartos- Quadra da Praia-Prox.Metrô,entire_home,"4,45",-22.98445,-43.21815,1154,1404
+392,958597596401414373,Aptº entre Copacabana e Arpoador,entire_home,"4,6",-22.9866016,-43.1905035,1158,1358
+393,22682485,"Charmoso apt na Gávea - estilo casa, com jardim!",entire_home,"4,83",-22.97573577783237,-43.22730350494385,1162,1312
+394,3293506,,entire_home,0,-22.90857,-43.19612,1160,1290
+395,2664267,RJ Tijuca  Metrô Saens Pena p/ 8 pessoas,entire_home,"4,65",-22.92663,-43.22829,1169,1369
+396,1039705111245080998,Luxuoso 5 quartos Ipanema Beach,entire_home,0,-22.98506,-43.20681,1197,1597
+397,40503624,Apartamento Inteiro e Moderno Praia de Ipanema.,entire_home,0,-22.98618,-43.19076,1211,1711
+398,847200065441747116,Luxo 5 quartos em Ipanema Beach,entire_home,0,-22.984954621911864,-43.20804098978169,1211,1711
+399,1087025779471661106,Lindo apto em Ipanema (Posto 9),entire_home,0,-22.98218419261016,-43.199243773354866,1278,1278
+400,1085685536042264719,Forte de Copacabana,entire_home,0,-22.98384,-43.19175,1278,1278
+401,37117957,Apartamento em Copacabana para 6 pessoas,entire_home,"4,84",-22.966352,-43.179352,1290,1440
+402,1226752121502440190,Casa Redentor,entire_home,0,-22.945007237097798,-43.199895851546636,1295,1415
+403,710820423232224437,Gávea Nobre II,entire_home,0,-22.9779689,-43.2295218,1341,1541
+404,1216787705149925732,Estúdio 407,entire_home,0,-22.89965,-43.17908,1369,1369
+405,1071272718919634274,Apartamento da estilista,entire_home,0,-22.97741766529024,-43.19594353437424,1369,1369
+406,805678708999908578,Apartamento na Zona Sul,entire_home,0,-22.929641038377078,-43.18980255586914,1369,1369
+407,2899080,Mundial Brasil 2014,entire_home,0,-22.92015,-43.21217,1369,1369
+408,1009997489561756302,casa para temporada em niteroi,entire_home,0,-22.89677846992464,-43.1035856239334,1369,1369
+409,902238496784952631,Apartamento lindo e confortável,entire_home,0,-22.93250898011841,-43.187601837430776,1376,1426
+410,52618146,Suíte Presidencial para Dia de Noiva de 180m2!,entire_home,0,-22.93792,-43.19821,1391,1541
+411,916057,Ótima Casa para aluguel para a Copa,entire_home,0,-22.91253,-43.21944,1398,1598
+412,587658560620782745,Apartamento/Flat Luxo,entire_home,"4,94",-22.985359,-43.206921,1400,1620
+413,1042893652949005376,Apartamento em Copacabana,entire_home,0,-22.96617,-43.19215,1426,1426
+414,28439986,Copacabana 4 qtos 07/ 15 p à 02 quadras da praia,entire_home,"4,54",-22.9715,-43.18717,1440,1940
+415,976779871022450699,Hotel Nacional RJ - 2806,entire_home,0,-22.9981,-43.24069,1461,1461
+416,2598991,Copa do mundo - 1km do Maracanã,entire_home,0,-22.90704,-43.23946,1484,1484
+417,2774007,ALUGO APARTAMENTO PARA COPA,entire_home,0,-22.91961,-43.23735,1484,1484
+418,764296573646615028,O melhor lugar para o carnaval,entire_home,0,-22.95524,-43.17956,1494,1494
+419,594147389552142846,CASA DO TRADER!!! 1,entire_home,0,-22.96193,-43.17594,1548,1598
+420,8151310,condo melo,entire_home,"4,67",-22.98297,-43.19793,1597,1597
+421,11047074,Ótimo apartamento renovado a 1 quarteirão da praia!,entire_home,0,-22.98204,-43.1922,1597,1597
+422,644924324189951857,SuhcasaCopacabana 13 Lugar confortável 5,entire_home,0,-22.9791033,-43.1914193,1683,1762
+423,9198768,"Condomínio Joa 505, vista parcial para o mar",entire_home,0,-22.98575,-43.19063,1732,2555
+424,652263512102561774,Frente mar Pepê 508,entire_home,0,-23.01545,-43.29779,1683,1883
+425,2577888,Aconchegante Apartamento 2 quartos,entire_home,0,-22.95896,-43.20437,1680,1860
+426,627331513466961140,Apto endereco errado,entire_home,0,-22.95024,-43.18113,1716,1746
+427,49363933,Cobertura duplex com mata e ofurô no Alto Leblon,entire_home,0,-22.98541,-43.23451,1725,2025
+428,516794835087467634,Lindo Apartamento em Copacabana em frente ao mar.,entire_home,0,-22.97893,-43.19025,1733,1883
+429,2769267,Apartamento Copa perto do metro,entire_home,0,-22.96295,-43.1794,1733,1883
+430,2593100,Aconchegante no Jardim Botânico,entire_home,0,-22.94466,-43.12866,1733,1883
+431,788306330574690660,Ap no Vidigal com vista p/ o mar,entire_home,0,-22.997588429135313,-43.237634087723364,1789,1789
+432,1146314491801839256,Flat Copacabana,entire_home,0,-22.9716,-43.18842,1826,1826
+433,1141890604354841075,Solar Mariano,entire_home,0,-22.92142,-43.18851,1826,1826
+434,25760679,Passeio de Lancha no Rio de Janeiro,entire_home,0,-22.9538,-43.17329,1847,1997
+435,3358198,Condomínio Copa 1002,entire_home,0,-22.97992,-43.18995,1916,1916
+436,10560766,Apartamento inteiro para 4 pessoas.,entire_home,0,-22.91483,-43.1811,1916,1916
+437,2416701,Apto 3 qtos predio antigo charmoso ,entire_home,0,-22.93927,-43.19169,1916,1916
+438,646514755365412310,Linda casa em meio a natureza!!,entire_home,"4,67",-22.98146,-43.30588,1940,1940
+439,1072304787392399025,Flat em Ipanema,entire_home,0,-22.980390180914032,-43.20295516401529,1952,2202
+440,7342274,Apartamento com varanda e vista para o mar,entire_home,"4,65",-22.98174,-43.19002,1977,2127
+441,1041451541621546980,15 minutos andando da praia copa,entire_home,0,-22.953958172998338,-43.19287096202503,1997,1997
+442,45740179,Mansão na Zona Sul para Produções e Filmagens,entire_home,0,-22.9398,-43.19773,2302,2602
+443,13299074,Aconchegante Excelente localizaçao,entire_home,0,-22.94007,-43.17617,2555,2555
+444,3042602,,entire_home,0,-22.91493,-43.18152,2555,2555
+445,3146231,Apartamento para Aluguel World Cup,entire_home,0,-22.9142,-43.22916,2555,2555
+446,1202905376447841679,Joá 13 pessoas,entire_home,0,-22.99809,-43.27518,4221,4221
+447,23136504,Apartamento Copacabana Rio de Janeiro,entire_home,0,-22.97161,-43.1915,5135,5135
+448,21503524,ÚNICO : CASA 9Qts Piscina 40 pessoas Santa Teresa!,entire_home,0,-22.93301,-43.20102,5535,5535
+449,2700388,Luxo e Comodidade no Flamengo,entire_home,0,-22.93462,-43.17546,8942,8942
+450,21190077,Mansão Ocean View -25 pessoas- 10 Suítes Master-,entire_home,0,-22.9965,-43.2737,12000,12000
