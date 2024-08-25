@@ -74,7 +74,7 @@ def extract_rates(evaluation):
 
 def filter_data(input_path, output_path, origin, raw):
 
-    with open(input_path, 'r') as file:
+    with open(input_path, 'r', encoding='utf-8') as file:
         json_data = json.load(file)
 
     file_basename = os.path.basename(input_path)[:-4]

@@ -1,51 +1,51 @@
 ,id,type,area,bedrooms,bathrooms,parking_spaces,is_furnished,rent,iptu_plus_condominum,total_cost,sale_price,address,neighbourhood,regionName,city,latitude,longitude,for_rent,for_sale
 0,892992584,Apartamento,41,1,1,0,True,2106,0,2795,0,Rua General Polidoro,Botafogo,Botafogo,Rio de Janeiro,-22.9547722,-43.184384,True,False
-1,892887862,Apartamento,76,2,2,1,True,3500,0,4668,0,Rua Rosa E Silva,Grajaú,Grajaú,Rio de Janeiro,-22.9253711,-43.2663916,True,False
-2,894031578,CasaCondominio,79,2,1,1,False,1234,0,1304,0,Beco Henedina,Oswaldo Cruz,Oswaldo Cruz,Rio de Janeiro,-22.8687095,-43.353522,True,False
-3,894111072,CasaCondominio,90,2,3,1,False,790,0,1074,0,R. João Henrique,Cordovil,Brás de Pina,Rio de Janeiro,-22.8275346,-43.2998816,True,False
-4,893120871,Apartamento,50,1,1,0,False,3833,0,4080,0,Rua Álvaro Ramos,Botafogo,Botafogo,Rio de Janeiro,-22.9587911,-43.18480311076566,True,False
+1,894031578,CasaCondominio,79,2,1,1,False,1234,0,1304,0,Beco Henedina,Oswaldo Cruz,Oswaldo Cruz,Rio de Janeiro,-22.8687095,-43.353522,True,False
+2,894111072,CasaCondominio,90,2,3,1,False,790,0,1074,0,R. João Henrique,Cordovil,Brás de Pina,Rio de Janeiro,-22.8275346,-43.2998816,True,False
+3,893120871,Apartamento,50,1,1,0,False,3833,0,4080,0,Rua Álvaro Ramos,Botafogo,Botafogo,Rio de Janeiro,-22.9587911,-43.18480311076566,True,False
+4,894599819,Apartamento,52,2,1,1,False,1200,0,1855,0,Avenida dos Mananciais,Taquara,Taquara,Rio de Janeiro,-22.9166667,-43.3916342,True,False
 5,892950198,Apartamento,73,2,1,0,False,3600,0,4677,0,Rua Guilhermina Guinle,Botafogo,Botafogo,Rio de Janeiro,-22.9497578,-43.188787,True,False
-6,894261445,StudioOuKitchenette,19,1,1,0,False,1150,0,1774,0,Rua do Rezende,Centro,Centro,Rio de Janeiro,-22.91012045,-43.176637994102215,True,False
-7,893427637,Casa,80,2,2,0,False,1094,0,1142,0,Rua Andrade Araújo,Oswaldo Cruz,Oswaldo Cruz,Rio de Janeiro,-22.8742003,-43.349569,True,False
-8,892880064,Apartamento,89,1,2,1,False,5350,0,7441,0,Avenida Jaime Silvado,São Conrado,São Conrado,Rio de Janeiro,-22.9945519,-43.2597163,True,False
-9,894216512,Apartamento,50,2,1,1,True,2099,0,2681,0,Avenida Tenente Coronel Muniz de Aragão,Anil,Freguesia ,Rio de Janeiro,-22.9474729,-43.3397476,True,False
-10,894587831,Apartamento,67,2,1,0,False,2980,0,3386,410000,Travessa Jaicós,Tijuca,Tijuca,Rio de Janeiro,-22.9321402,-43.2337603,True,True
-11,894600853,Apartamento,50,2,1,1,False,1100,0,1718,185000,Estrada da Boiuna,Taquara,Taquara,Rio de Janeiro,-22.9148027,-43.3977167,True,True
-12,894598734,Apartamento,60,2,1,1,False,2000,0,2627,250000,Rua Borja Reis,Engenho de Dentro,Engenho de Dentro,Rio de Janeiro,-22.7873729,-43.3629516,True,True
-13,894600550,Apartamento,67,2,2,0,False,2500,0,3205,0,Rua Araxá,Grajaú,Grajaú,Rio de Janeiro,-22.9253711,-43.2663916,True,False
+6,894598727,Apartamento,59,2,1,1,True,3800,0,6603,0,Rua Conde de Baependi,Flamengo,Laranjeiras,Rio de Janeiro,-22.9371994,-43.1785326,True,False
+7,894261445,StudioOuKitchenette,19,1,1,0,False,1150,0,1774,0,Rua do Rezende,Centro,Centro,Rio de Janeiro,-22.91012045,-43.176637994102215,True,False
+8,893427637,Casa,80,2,2,0,False,1094,0,1142,0,Rua Andrade Araújo,Oswaldo Cruz,Oswaldo Cruz,Rio de Janeiro,-22.8742003,-43.349569,True,False
+9,894598850,Apartamento,53,2,1,1,False,1150,0,1744,0,Rua Paulo Prado,Oswaldo Cruz,Oswaldo Cruz,Rio de Janeiro,-22.710496,-42.6258253,True,False
+10,892880064,Apartamento,89,1,2,1,False,5350,0,7441,0,Avenida Jaime Silvado,São Conrado,São Conrado,Rio de Janeiro,-22.9945519,-43.2597163,True,False
+11,894216512,Apartamento,50,2,1,1,True,2099,0,2681,0,Avenida Tenente Coronel Muniz de Aragão,Anil,Freguesia ,Rio de Janeiro,-22.9474729,-43.3397476,True,False
+12,894587831,Apartamento,67,2,1,0,False,2980,0,3386,410000,Travessa Jaicós,Tijuca,Tijuca,Rio de Janeiro,-22.9321402,-43.2337603,True,True
+13,894600853,Apartamento,50,2,1,1,False,1100,0,1718,185000,Estrada da Boiuna,Taquara,Taquara,Rio de Janeiro,-22.9148027,-43.3977167,True,True
 14,893946689,StudioOuKitchenette,15,1,1,0,True,1650,0,2114,259000,Rua Riachuelo,Centro,Centro,Rio de Janeiro,-22.9014724,-43.2555117,True,True
-15,894601181,Apartamento,68,2,2,1,False,1200,0,1747,350000,Rua Eulina Ribeiro,Engenho de Dentro,Engenho de Dentro,Rio de Janeiro,-22.9070087,-43.3018314,True,True
-16,893814052,Apartamento,63,2,1,0,False,1237,0,1745,0,Rua Bernardino de Campos,Piedade,Piedade,Rio de Janeiro,-22.8879785,-43.3078088,True,False
-17,893083318,Apartamento,105,3,3,1,False,3814,0,5575,0,Rua Pereira da Silva,Laranjeiras,Laranjeiras,Rio de Janeiro,-22.930099650000002,-43.19257423980441,True,False
-18,894600782,Apartamento,70,2,1,1,False,1600,0,2014,0,Rua Coração de Maria,Méier,Méier,Rio de Janeiro,-22.9017297,-43.278034,True,False
-19,894594871,Casa,95,2,1,0,False,2490,0,2705,0,Rua Caçapava,Grajaú,Grajaú,Rio de Janeiro,-22.9262604,-43.2576343,True,False
-20,894079213,Apartamento,17,1,1,0,False,1850,0,2076,1850000,Travessa Inácio Bintencoutt,Tijuca,Tijuca,Rio de Janeiro,-22.9205578,-43.2302301,True,False
-21,894599745,Casa,359,2,1,2,False,3000,0,3190,850000,Rua Soldado Péricles Leal Bezerra,Anil,Anil,Rio de Janeiro,-22.9533107,-43.3395407,True,True
-22,893571427,Apartamento,50,2,1,0,False,1268,0,1702,210000,Estrada dos Três Rios,Freguesia de Jacarepaguá,Freguesia ,Rio de Janeiro,-22.9260176,-43.3154501,True,True
-23,893108755,Apartamento,58,2,1,1,False,1250,0,1419,0,Estrada dos Banderantes,Jacarepaguá,Jacarepaguá,Rio de Janeiro,-22.9260176,-43.3154501,True,False
-24,894595553,Apartamento,73,2,1,1,False,1300,0,2039,320000,Rua Daniel Carneiro,Engenho de Dentro,Méier,Rio de Janeiro,-22.8969428,-43.3006023,True,True
-25,894100348,Apartamento,70,2,1,1,True,1299,0,2131,0,Rua Pinto Teles,Praça Seca,Campinho,Rio de Janeiro,-22.8853615,-43.3527609,True,False
-26,894598115,Apartamento,85,2,2,0,False,2600,0,4301,435000,Rua Conde de Bonfim,Tijuca,Tijuca,Rio de Janeiro,-22.924141,-43.2325924,True,True
-27,893066658,Apartamento,92,3,2,0,False,2100,0,2649,300000,Rua Macedo Braga,Abolição,Abolição,Rio de Janeiro,-22.8865712,-43.2987405,True,True
-28,893050238,Apartamento,50,2,1,1,False,955,0,1446,250000,Rua Ministro Gabriel de Piza,Pechincha,Freguesia ,Rio de Janeiro,-22.9416011,-43.3604775,True,True
-29,892968883,Apartamento,50,2,1,0,False,2239,0,2845,0,Avenida Calógeras,Centro,Centro,Rio de Janeiro,-22.974349500000002,-43.38801660891775,True,False
-30,894596181,Apartamento,90,3,3,1,False,2999,0,4813,0,Rua Haddock Lobo,Parque Paulista,Tijuca,Rio de Janeiro,-22.9151577,-43.2075116,True,False
-31,893200674,Casa,120,2,2,0,False,1512,0,1574,445000,Estrada Santa Maura,Jacarepaguá,Jacarepaguá,Rio de Janeiro,-22.9662077,-43.404084907852656,True,True
-32,893773836,Apartamento,49,1,1,0,True,1851,0,2674,330000,Avenida Henrique Valadares,Centro,Centro,Rio de Janeiro,-22.9127263,-43.1905287,True,True
-33,894597395,Casa,81,2,1,1,False,1500,0,1621,0,Rua Caroa,Curicica,Curicica,Rio de Janeiro,-22.9583161,-43.3950385,True,False
-34,894033115,StudioOuKitchenette,25,1,1,0,True,1850,0,2796,420000,Rua Marechal Cantuária,Urca,Urca,Rio de Janeiro,-22.948496,-43.1636733,True,True
-35,894601380,Apartamento,52,2,1,1,False,1400,0,2055,0,Rua Giovani de Castro,Freguesia (jacarepaguá),Freguesia ,Rio de Janeiro,-22.9493515,-43.3503344,True,False
-36,894600293,Apartamento,65,2,1,0,False,1665,0,2030,0,Rua Japeri,Rio Comprido,Tijuca,Rio de Janeiro,-22.9360841,-43.1993051,True,False
-37,894598273,Apartamento,61,2,1,0,False,1800,0,2831,0,Rua Haddock Lobo,Tijuca,Tijuca,Rio de Janeiro,-22.921486,-43.2202237,True,False
-38,893049764,Apartamento,95,2,3,0,False,5799,0,8076,0,Rua Igarapava,Leblon,Leblon,Rio de Janeiro,-22.98714,-43.2318543,True,False
-39,893603352,Casa,123,1,2,0,False,3200,0,3544,0,Rua Bento Lisboa,Catete,Catete,Rio de Janeiro,-22.9281932,-43.1793363,True,False
-40,893055558,Apartamento,58,2,1,1,False,1200,0,1747,250000,Estrada do Cafundá,Tanque,Taquara,Rio de Janeiro,-22.918268,-43.3665703,True,True
-41,893456213,Apartamento,44,2,1,1,False,1260,0,1549,210000,Estrada Paulo de Medeiros,Água Santa,Piedade,Rio de Janeiro,-22.9087547,-43.3153756,True,True
-42,893264699,Apartamento,130,2,2,0,False,2222,0,2838,0,Avenida Nossa Senhora de Fátima,Centro,Centro,Rio de Janeiro,-22.90347155,-43.175469551415844,True,False
-43,894595955,StudioOuKitchenette,30,1,1,0,False,1200,0,1274,0,Rua Teodoro da Silva,Vila Isabel,Andaraí,Rio de Janeiro,-22.9182293,-43.2489985,True,False
-44,892853638,Apartamento,85,1,1,0,False,2300,0,3138,0,Rua Henry Ford,Tijuca,Tijuca,Rio de Janeiro,-22.9279225,-43.236182,True,False
-45,894111632,Apartamento,70,2,2,1,True,7000,0,8664,0,Rua Major Rubens Vaz,Gávea,Gávea,Rio de Janeiro,-22.9705106,-43.1908621,True,False
-46,893329065,CasaCondominio,90,2,1,1,False,5000,0,5255,0,Rua Taquari,Braz de Pina,Penha Circular,Rio de Janeiro,-22.96482965,-43.22190379447403,True,False
-47,893002657,Apartamento,70,2,1,1,True,2500,0,3247,500000,Rua Visconde de Duprat,Cidade Nova,Cidade Nova,Rio de Janeiro,-22.9117303,-43.2034019,True,True
-48,892840730,StudioOuKitchenette,28,1,1,0,False,3500,0,4451,570000,Avenida do Pepe,Barra da Tijuca,Jardim Oceânico,Rio de Janeiro,-22.9997404,-43.3659929,True,True
-49,893560764,Casa,60,2,1,0,False,1400,0,1460,0,Rua Queluz,Bento Ribeiro,Bento Ribeiro,Rio de Janeiro,-22.8643462,-43.3616461,True,False
+15,893814052,Apartamento,63,2,1,0,False,1237,0,1745,0,Rua Bernardino de Campos,Piedade,Piedade,Rio de Janeiro,-22.8879785,-43.3078088,True,False
+16,894600782,Apartamento,70,2,1,1,False,1600,0,2014,0,Rua Coração de Maria,Méier,Méier,Rio de Janeiro,-22.9017297,-43.278034,True,False
+17,894079213,Apartamento,17,1,1,0,False,1850,0,2076,1850000,Travessa Inácio Bintencoutt,Tijuca,Tijuca,Rio de Janeiro,-22.9205578,-43.2302301,True,False
+18,894599745,Casa,359,2,1,2,False,3000,0,3190,850000,Rua Soldado Péricles Leal Bezerra,Anil,Anil,Rio de Janeiro,-22.9533107,-43.3395407,True,True
+19,893571427,Apartamento,50,2,1,0,False,1268,0,1702,210000,Estrada dos Três Rios,Freguesia de Jacarepaguá,Freguesia ,Rio de Janeiro,-22.9260176,-43.3154501,True,True
+20,893108755,Apartamento,58,2,1,1,False,1250,0,1419,0,Estrada dos Banderantes,Jacarepaguá,Jacarepaguá,Rio de Janeiro,-22.9260176,-43.3154501,True,False
+21,894595553,Apartamento,73,2,1,1,False,1300,0,2039,320000,Rua Daniel Carneiro,Engenho de Dentro,Méier,Rio de Janeiro,-22.8969428,-43.3006023,True,True
+22,894100348,Apartamento,70,2,1,1,True,1299,0,2131,0,Rua Pinto Teles,Praça Seca,Campinho,Rio de Janeiro,-22.8853615,-43.3527609,True,False
+23,893066658,Apartamento,92,3,2,0,False,2100,0,2649,300000,Rua Macedo Braga,Abolição,Abolição,Rio de Janeiro,-22.8865712,-43.2987405,True,True
+24,893050238,Apartamento,50,2,1,1,False,955,0,1446,250000,Rua Ministro Gabriel de Piza,Pechincha,Freguesia ,Rio de Janeiro,-22.9416011,-43.3604775,True,True
+25,892968883,Apartamento,50,2,1,0,False,2239,0,2845,0,Avenida Calógeras,Centro,Centro,Rio de Janeiro,-22.974349500000002,-43.38801660891775,True,False
+26,894596181,Apartamento,90,3,3,1,False,2999,0,4813,0,Rua Haddock Lobo,Parque Paulista,Tijuca,Rio de Janeiro,-22.9151577,-43.2075116,True,False
+27,893200674,Casa,120,2,2,0,False,1512,0,1574,445000,Estrada Santa Maura,Jacarepaguá,Jacarepaguá,Rio de Janeiro,-22.9662077,-43.404084907852656,True,True
+28,893773836,Apartamento,49,1,1,0,True,1851,0,2674,330000,Avenida Henrique Valadares,Centro,Centro,Rio de Janeiro,-22.9127263,-43.1905287,True,True
+29,894033115,StudioOuKitchenette,25,1,1,0,True,1850,0,2796,420000,Rua Marechal Cantuária,Urca,Urca,Rio de Janeiro,-22.948496,-43.1636733,True,True
+30,894601380,Apartamento,52,2,1,1,False,1400,0,2055,0,Rua Giovani de Castro,Freguesia (jacarepaguá),Freguesia ,Rio de Janeiro,-22.9493515,-43.3503344,True,False
+31,892887862,Apartamento,76,2,2,1,True,3500,0,4668,0,Rua Rosa E Silva,Grajaú,Grajaú,Rio de Janeiro,-22.9253711,-43.2663916,True,False
+32,894600293,Apartamento,65,2,1,0,False,1665,0,2030,0,Rua Japeri,Rio Comprido,Tijuca,Rio de Janeiro,-22.9360841,-43.1993051,True,False
+33,894598273,Apartamento,61,2,1,0,False,1800,0,2831,0,Rua Haddock Lobo,Tijuca,Tijuca,Rio de Janeiro,-22.921486,-43.2202237,True,False
+34,893049764,Apartamento,95,2,3,0,False,5799,0,8076,0,Rua Igarapava,Leblon,Leblon,Rio de Janeiro,-22.98714,-43.2318543,True,False
+35,893603352,Casa,123,1,2,0,False,3200,0,3544,0,Rua Bento Lisboa,Catete,Catete,Rio de Janeiro,-22.9281932,-43.1793363,True,False
+36,893055558,Apartamento,58,2,1,1,False,1200,0,1747,250000,Estrada do Cafundá,Tanque,Taquara,Rio de Janeiro,-22.918268,-43.3665703,True,True
+37,893456213,Apartamento,44,2,1,1,False,1260,0,1549,210000,Estrada Paulo de Medeiros,Água Santa,Piedade,Rio de Janeiro,-22.9087547,-43.3153756,True,True
+38,893264699,Apartamento,130,2,2,0,False,2222,0,2838,0,Avenida Nossa Senhora de Fátima,Centro,Centro,Rio de Janeiro,-22.90347155,-43.175469551415844,True,False
+39,894595955,StudioOuKitchenette,30,1,1,0,False,1200,0,1274,0,Rua Teodoro da Silva,Vila Isabel,Andaraí,Rio de Janeiro,-22.9182293,-43.2489985,True,False
+40,892853638,Apartamento,85,1,1,0,False,2300,0,3138,0,Rua Henry Ford,Tijuca,Tijuca,Rio de Janeiro,-22.9279225,-43.236182,True,False
+41,894111632,Apartamento,70,2,2,1,True,7000,0,8664,0,Rua Major Rubens Vaz,Gávea,Gávea,Rio de Janeiro,-22.9705106,-43.1908621,True,False
+42,893329065,CasaCondominio,90,2,1,1,False,5000,0,5255,0,Rua Taquari,Braz de Pina,Penha Circular,Rio de Janeiro,-22.96482965,-43.22190379447403,True,False
+43,893002657,Apartamento,70,2,1,1,True,2500,0,3247,500000,Rua Visconde de Duprat,Cidade Nova,Cidade Nova,Rio de Janeiro,-22.9117303,-43.2034019,True,True
+44,892840730,StudioOuKitchenette,28,1,1,0,False,3500,0,4451,570000,Avenida do Pepe,Barra da Tijuca,Jardim Oceânico,Rio de Janeiro,-22.9997404,-43.3659929,True,True
+45,893560764,Casa,60,2,1,0,False,1400,0,1460,0,Rua Queluz,Bento Ribeiro,Bento Ribeiro,Rio de Janeiro,-22.8643462,-43.3616461,True,False
+46,893531923,StudioOuKitchenette,25,1,1,0,False,3100,0,3620,0,Rua Senador Vergueiro,Flamengo,Flamengo,Rio de Janeiro,-22.9332157,-43.1770108,True,False
+47,893271363,Casa,82,2,2,0,False,1806,0,1879,0,Rua Baronesa do Engenho Novo,Engenho Novo,Cachambi,Rio de Janeiro,-22.9090942,-43.2678381,True,False
+48,894598784,Apartamento,65,2,2,1,True,4500,0,6399,0,Avenida Evandro Lins E Silva,Barra da Tijuca,Barra da Tijuca,Rio de Janeiro,-22.978617900000003,-43.39407126068137,True,False
+49,892996506,Apartamento,48,2,1,1,False,1750,0,2185,0,Rua Estremadura,Irajá,Irajá,Rio de Janeiro,-22.8238328,-43.3180551,True,False

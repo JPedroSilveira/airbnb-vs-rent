@@ -41,53 +41,6 @@
         }
     },
     {
-        "_id": "892887862",
-        "_score": 886.2948,
-        "_source": {
-            "id": 892887862,
-            "type": "Apartamento",
-            "area": 76,
-            "bathrooms": 2,
-            "bedrooms": 2,
-            "parkingSpaces": 1,
-            "installations": [
-                "SALAO_DE_FESTAS",
-                "ACADEMIA",
-                "CHURRASQUEIRA",
-                "GAS_ENCANADO",
-                "QUADRA_ESPORTIVA",
-                "PISCINA",
-                "ESPACO_GOURMET_NA_AREA_COMUM",
-                "PLAYGROUND",
-                "SAUNA"
-            ],
-            "totalCost": 4668,
-            "rent": 3500,
-            "iptuPlusCondominium": 1032,
-            "salePrice": 0,
-            "address": "Rua Rosa E Silva",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Graja√∫",
-            "regionName": "Graja√∫",
-            "isSecondaryHouse": false,
-            "coverImage": "892887862-631.6539920901818MVF1481.jpg",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": false,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": true,
-            "latitude": -22.9253711,
-            "longitude": -43.2663916
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
         "_id": "894031578",
         "_score": 886.25073,
         "_source": {
@@ -146,10 +99,10 @@
             "rent": 790,
             "iptuPlusCondominium": 250,
             "salePrice": 0,
-            "address": "R. Jo√£o Henrique",
+            "address": "R. Jo„o Henrique",
             "city": "Rio de Janeiro",
             "neighbourhood": "Cordovil",
-            "regionName": "Br√°s de Pina",
+            "regionName": "Br·s de Pina",
             "isSecondaryHouse": false,
             "coverImage": "894111072-327.41720415312346IMG7606.jpg",
             "imageList": [],
@@ -188,7 +141,7 @@
             "rent": 3833,
             "iptuPlusCondominium": 100,
             "salePrice": 0,
-            "address": "Rua √Ålvaro Ramos",
+            "address": "Rua ¡lvaro Ramos",
             "city": "Rio de Janeiro",
             "neighbourhood": "Botafogo",
             "regionName": "Botafogo",
@@ -208,6 +161,56 @@
             "listingTags": [
                 "RENT_ON_TERMINATION",
                 "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894599819",
+        "_score": 886.2054,
+        "_source": {
+            "id": 894599819,
+            "type": "Apartamento",
+            "area": 52,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 1855,
+            "rent": 1200,
+            "iptuPlusCondominium": 608,
+            "salePrice": 0,
+            "address": "Avenida dos Mananciais",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Taquara",
+            "regionName": "Taquara",
+            "isSecondaryHouse": false,
+            "coverImage": "894599819-648.5587996279153DSC0184.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -22.9166667,
+            "longitude": -43.3916342
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
             ]
         }
     },
@@ -252,6 +255,55 @@
             "listingTags": [
                 "RENT_ON_TERMINATION",
                 "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894598727",
+        "_score": 886.16125,
+        "_source": {
+            "id": 894598727,
+            "type": "Apartamento",
+            "area": 59,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "LAVANDERIA_NO_PREDIO",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "PISCINA",
+                "PLAYGROUND",
+                "PERTO_DE_METRO_OU_TREM",
+                "SAUNA",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 6603,
+            "rent": 3800,
+            "iptuPlusCondominium": 2656,
+            "salePrice": 0,
+            "address": "Rua Conde de Baependi",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Flamengo",
+            "regionName": "Laranjeiras",
+            "isSecondaryHouse": false,
+            "coverImage": "894598727-64.69757901691142RKS05316.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "latitude": -22.9371994,
+            "longitude": -43.1785326
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
             ]
         }
     },
@@ -316,7 +368,7 @@
             "rent": 1094,
             "iptuPlusCondominium": 0,
             "salePrice": 0,
-            "address": "Rua Andrade Ara√∫jo",
+            "address": "Rua Andrade Ara˙jo",
             "city": "Rio de Janeiro",
             "neighbourhood": "Oswaldo Cruz",
             "regionName": "Oswaldo Cruz",
@@ -337,6 +389,53 @@
                 "RENT_PRICE_DECREASED",
                 "RENT_ON_TERMINATION",
                 "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894598850",
+        "_score": 886.1188,
+        "_source": {
+            "id": 894598850,
+            "type": "Apartamento",
+            "area": 53,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 1744,
+            "rent": 1150,
+            "iptuPlusCondominium": 550,
+            "salePrice": 0,
+            "address": "Rua Paulo Prado",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Oswaldo Cruz",
+            "regionName": "Oswaldo Cruz",
+            "isSecondaryHouse": false,
+            "coverImage": "894598850-414.66243626154295DSC8419.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "latitude": -22.710496,
+            "longitude": -42.6258253
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
             ]
         }
     },
@@ -366,8 +465,8 @@
             "salePrice": 0,
             "address": "Avenida Jaime Silvado",
             "city": "Rio de Janeiro",
-            "neighbourhood": "S√£o Conrado",
-            "regionName": "S√£o Conrado",
+            "neighbourhood": "S„o Conrado",
+            "regionName": "S„o Conrado",
             "isSecondaryHouse": false,
             "coverImage": "892880064-754.595318515361MG7934.jpg",
             "imageList": [],
@@ -419,10 +518,10 @@
             "rent": 2099,
             "iptuPlusCondominium": 500,
             "salePrice": 0,
-            "address": "Avenida Tenente Coronel Muniz de Arag√£o",
+            "address": "Avenida Tenente Coronel Muniz de Arag„o",
             "city": "Rio de Janeiro",
             "neighbourhood": "Anil",
-            "regionName": "Freguesia¬†",
+            "regionName": "Freguesia†",
             "isSecondaryHouse": false,
             "coverImage": "894216512-610.5297596230931IMG3218.jpg",
             "imageList": [],
@@ -461,7 +560,7 @@
             "rent": 2980,
             "iptuPlusCondominium": 290,
             "salePrice": 410000,
-            "address": "Travessa Jaic√≥s",
+            "address": "Travessa JaicÛs",
             "city": "Rio de Janeiro",
             "neighbourhood": "Tijuca",
             "regionName": "Tijuca",
@@ -541,99 +640,6 @@
         }
     },
     {
-        "_id": "894598734",
-        "_score": 886.09827,
-        "_source": {
-            "id": 894598734,
-            "type": "Apartamento",
-            "area": 60,
-            "bathrooms": 1,
-            "bedrooms": 2,
-            "parkingSpaces": 1,
-            "installations": [
-                "SALAO_DE_FESTAS",
-                "CORRIMAO",
-                "ACADEMIA",
-                "AREA_VERDE",
-                "VAGA_DE_GARAGEM_ACESSIVEL",
-                "QUADRA_ESPORTIVA",
-                "PISCINA",
-                "PLAYGROUND",
-                "SALAO_DE_JOGOS",
-                "RAMPAS_DE_ACESSO"
-            ],
-            "totalCost": 2627,
-            "rent": 2000,
-            "iptuPlusCondominium": 550,
-            "salePrice": 250000,
-            "address": "Rua Borja Reis",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Engenho de Dentro",
-            "regionName": "Engenho de Dentro",
-            "isSecondaryHouse": false,
-            "coverImage": "894598734-740.5736990278378IMG9058.JPG",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": true,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "activeSpecialConditions": [
-                "Exclusivity"
-            ],
-            "yield": 0.0046,
-            "yieldStrategy": "CALCULATOR",
-            "latitude": -22.7873729,
-            "longitude": -43.3629516
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
-        "_id": "894600550",
-        "_score": 886.0961,
-        "_source": {
-            "id": 894600550,
-            "type": "Apartamento",
-            "area": 67,
-            "bathrooms": 2,
-            "bedrooms": 2,
-            "parkingSpaces": 0,
-            "installations": [],
-            "totalCost": 3205,
-            "rent": 2500,
-            "iptuPlusCondominium": 608,
-            "salePrice": 0,
-            "address": "Rua Arax√°",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Graja√∫",
-            "regionName": "Graja√∫",
-            "isSecondaryHouse": false,
-            "coverImage": "894600550-656.5424744960261IMG20240823122404.jpg",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": false,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "activeSpecialConditions": [
-                "Exclusivity"
-            ],
-            "latitude": -22.9253711,
-            "longitude": -43.2663916
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
         "_id": "893946689",
         "_score": 886.0868,
         "_source": {
@@ -670,60 +676,6 @@
             "yieldStrategy": "CALCULATOR",
             "latitude": -22.9014724,
             "longitude": -43.2555117
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
-        "_id": "894601181",
-        "_score": 886.06793,
-        "_source": {
-            "id": 894601181,
-            "type": "Apartamento",
-            "area": 68,
-            "bathrooms": 2,
-            "bedrooms": 2,
-            "parkingSpaces": 1,
-            "installations": [
-                "SALAO_DE_FESTAS",
-                "CORRIMAO",
-                "AREA_VERDE",
-                "VAGA_DE_GARAGEM_ACESSIVEL",
-                "QUADRA_ESPORTIVA",
-                "PISCINA",
-                "PLAYGROUND",
-                "SALAO_DE_JOGOS",
-                "RAMPAS_DE_ACESSO",
-                "BRINQUEDOTECA",
-                "PISO_TATIL"
-            ],
-            "totalCost": 1747,
-            "rent": 1200,
-            "iptuPlusCondominium": 500,
-            "salePrice": 350000,
-            "address": "Rua Eulina Ribeiro",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Engenho de Dentro",
-            "regionName": "Engenho de Dentro",
-            "isSecondaryHouse": false,
-            "coverImage": "894601181-51.22236164124849ALE727.jpg",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": true,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "activeSpecialConditions": [
-                "Exclusivity"
-            ],
-            "yield": 0.0042,
-            "yieldStrategy": "CALCULATOR",
-            "latitude": -22.9070087,
-            "longitude": -43.3018314
         },
         "fields": {
             "listingTags": [
@@ -778,49 +730,6 @@
         }
     },
     {
-        "_id": "893083318",
-        "_score": 886.0541,
-        "_source": {
-            "id": 893083318,
-            "type": "Apartamento",
-            "area": 105,
-            "bathrooms": 3,
-            "bedrooms": 3,
-            "parkingSpaces": 1,
-            "installations": [
-                "PERTO_DE_METRO_OU_TREM"
-            ],
-            "totalCost": 5575,
-            "rent": 3814,
-            "iptuPlusCondominium": 1643,
-            "salePrice": 0,
-            "address": "Rua Pereira da Silva",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Laranjeiras",
-            "regionName": "Laranjeiras",
-            "isSecondaryHouse": false,
-            "coverImage": "893083318-925.2890321402442WhatsAppImage20200608at18.00.431.jpeg",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": false,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "activeSpecialConditions": [
-                "Exclusivity"
-            ],
-            "latitude": -22.930099650000002,
-            "longitude": -43.19257423980441
-        },
-        "fields": {
-            "listingTags": [
-                "RENT_ON_TERMINATION",
-                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
-            ]
-        }
-    },
-    {
         "_id": "894600782",
         "_score": 886.0475,
         "_source": {
@@ -835,10 +744,10 @@
             "rent": 1600,
             "iptuPlusCondominium": 352,
             "salePrice": 0,
-            "address": "Rua Cora√ß√£o de Maria",
+            "address": "Rua CoraÁ„o de Maria",
             "city": "Rio de Janeiro",
-            "neighbourhood": "M√©ier",
-            "regionName": "M√©ier",
+            "neighbourhood": "MÈier",
+            "regionName": "MÈier",
             "isSecondaryHouse": false,
             "coverImage": "894600782-350.43968254190315IMG3764Copy.jpg",
             "imageList": [],
@@ -850,45 +759,6 @@
             "isFurnished": false,
             "latitude": -22.9017297,
             "longitude": -43.278034
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
-        "_id": "894594871",
-        "_score": 886.0172,
-        "_source": {
-            "id": 894594871,
-            "type": "Casa",
-            "area": 95,
-            "bathrooms": 1,
-            "bedrooms": 2,
-            "parkingSpaces": 0,
-            "installations": [
-                "AREA_VERDE"
-            ],
-            "totalCost": 2705,
-            "rent": 2490,
-            "iptuPlusCondominium": 109,
-            "salePrice": 0,
-            "address": "Rua Ca√ßapava",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Graja√∫",
-            "regionName": "Graja√∫",
-            "isSecondaryHouse": false,
-            "coverImage": "894594871-376.73967399894383IMG20240823094545.jpg",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": false,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "latitude": -22.9262604,
-            "longitude": -43.2576343
         },
         "fields": {
             "listingTags": [
@@ -913,7 +783,7 @@
             "rent": 1850,
             "iptuPlusCondominium": 155,
             "salePrice": 1850000,
-            "address": "Travessa In√°cio Bintencoutt",
+            "address": "Travessa In·cio Bintencoutt",
             "city": "Rio de Janeiro",
             "neighbourhood": "Tijuca",
             "regionName": "Tijuca",
@@ -953,7 +823,7 @@
             "rent": 3000,
             "iptuPlusCondominium": 62,
             "salePrice": 850000,
-            "address": "Rua Soldado P√©ricles Leal Bezerra",
+            "address": "Rua Soldado PÈricles Leal Bezerra",
             "city": "Rio de Janeiro",
             "neighbourhood": "Anil",
             "regionName": "Anil",
@@ -1001,10 +871,10 @@
             "rent": 1268,
             "iptuPlusCondominium": 390,
             "salePrice": 210000,
-            "address": "Estrada dos Tr√™s Rios",
+            "address": "Estrada dos TrÍs Rios",
             "city": "Rio de Janeiro",
-            "neighbourhood": "Freguesia de Jacarepagu√°",
-            "regionName": "Freguesia¬†",
+            "neighbourhood": "Freguesia de Jacarepagu·",
+            "regionName": "Freguesia†",
             "isSecondaryHouse": false,
             "coverImage": "893571427-210.93511671340536MG9500.jpg",
             "imageList": [],
@@ -1050,8 +920,8 @@
             "salePrice": 0,
             "address": "Estrada dos Banderantes",
             "city": "Rio de Janeiro",
-            "neighbourhood": "Jacarepagu√°",
-            "regionName": "Jacarepagu√°",
+            "neighbourhood": "Jacarepagu·",
+            "regionName": "Jacarepagu·",
             "isSecondaryHouse": false,
             "coverImage": "893108755-123.22706158172403LIE3686.JPG",
             "imageList": [],
@@ -1092,7 +962,7 @@
             "address": "Rua Daniel Carneiro",
             "city": "Rio de Janeiro",
             "neighbourhood": "Engenho de Dentro",
-            "regionName": "M√©ier",
+            "regionName": "MÈier",
             "isSecondaryHouse": false,
             "coverImage": "894595553-957.9243564063105IMG9075.JPG",
             "imageList": [],
@@ -1138,7 +1008,7 @@
             "salePrice": 0,
             "address": "Rua Pinto Teles",
             "city": "Rio de Janeiro",
-            "neighbourhood": "Pra√ßa Seca",
+            "neighbourhood": "PraÁa Seca",
             "regionName": "Campinho",
             "isSecondaryHouse": false,
             "coverImage": "894100348-297.476103264409745Andar3.JPG",
@@ -1154,52 +1024,6 @@
             ],
             "latitude": -22.8853615,
             "longitude": -43.3527609
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
-        "_id": "894598115",
-        "_score": 885.97797,
-        "_source": {
-            "id": 894598115,
-            "type": "Apartamento",
-            "area": 85,
-            "bathrooms": 2,
-            "bedrooms": 2,
-            "parkingSpaces": 0,
-            "installations": [
-                "CORRIMAO",
-                "PERTO_DE_METRO_OU_TREM",
-                "RAMPAS_DE_ACESSO"
-            ],
-            "totalCost": 4301,
-            "rent": 2600,
-            "iptuPlusCondominium": 1600,
-            "salePrice": 435000,
-            "address": "Rua Conde de Bonfim",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Tijuca",
-            "regionName": "Tijuca",
-            "isSecondaryHouse": false,
-            "coverImage": "894598115-972.522942974204IMG20240823111439.jpg",
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": true,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "activeSpecialConditions": [
-                "Exclusivity"
-            ],
-            "yield": 0.0046,
-            "yieldStrategy": "CALCULATOR",
-            "latitude": -22.924141,
-            "longitude": -43.2325924
         },
         "fields": {
             "listingTags": [
@@ -1226,8 +1050,8 @@
             "salePrice": 300000,
             "address": "Rua Macedo Braga",
             "city": "Rio de Janeiro",
-            "neighbourhood": "Aboli√ß√£o",
-            "regionName": "Aboli√ß√£o",
+            "neighbourhood": "AboliÁ„o",
+            "regionName": "AboliÁ„o",
             "isSecondaryHouse": false,
             "coverImage": "893066658-288.07770672761535MG0350.jpg",
             "imageList": [],
@@ -1275,7 +1099,7 @@
             "address": "Rua Ministro Gabriel de Piza",
             "city": "Rio de Janeiro",
             "neighbourhood": "Pechincha",
-            "regionName": "Freguesia¬†",
+            "regionName": "Freguesia†",
             "isSecondaryHouse": false,
             "coverImage": "893050238-522.1743650672538MAJ23APT371074.jpg",
             "imageList": [],
@@ -1314,7 +1138,7 @@
             "rent": 2239,
             "iptuPlusCondominium": 528,
             "salePrice": 0,
-            "address": "Avenida Cal√≥geras",
+            "address": "Avenida CalÛgeras",
             "city": "Rio de Janeiro",
             "neighbourhood": "Centro",
             "regionName": "Centro",
@@ -1404,8 +1228,8 @@
             "salePrice": 445000,
             "address": "Estrada Santa Maura",
             "city": "Rio de Janeiro",
-            "neighbourhood": "Jacarepagu√°",
-            "regionName": "Jacarepagu√°",
+            "neighbourhood": "Jacarepagu·",
+            "regionName": "Jacarepagu·",
             "isSecondaryHouse": false,
             "coverImage": "893200674-159.547663061636720201124093318.jpg",
             "imageList": [],
@@ -1476,47 +1300,6 @@
         }
     },
     {
-        "_id": "894597395",
-        "_score": 885.9276,
-        "_source": {
-            "id": 894597395,
-            "type": "Casa",
-            "area": 81,
-            "bathrooms": 1,
-            "bedrooms": 2,
-            "parkingSpaces": 1,
-            "installations": [
-                "VAGA_DE_GARAGEM_ACESSIVEL"
-            ],
-            "totalCost": 1621,
-            "rent": 1500,
-            "iptuPlusCondominium": 57,
-            "salePrice": 0,
-            "address": "Rua Caroa",
-            "city": "Rio de Janeiro",
-            "neighbourhood": "Curicica",
-            "regionName": "Curicica",
-            "isSecondaryHouse": false,
-            "imageList": [],
-            "imageCaptionList": [],
-            "forRent": true,
-            "forSale": false,
-            "isPrimaryMarket": false,
-            "visitStatus": "ACCEPT_NEW",
-            "isFurnished": false,
-            "activeSpecialConditions": [
-                "Exclusivity"
-            ],
-            "latitude": -22.9583161,
-            "longitude": -43.3950385
-        },
-        "fields": {
-            "listingTags": [
-                "NEW_AD"
-            ]
-        }
-    },
-    {
         "_id": "894033115",
         "_score": 885.92285,
         "_source": {
@@ -1533,7 +1316,7 @@
             "rent": 1850,
             "iptuPlusCondominium": 922,
             "salePrice": 420000,
-            "address": "Rua Marechal Cantu√°ria",
+            "address": "Rua Marechal Cantu·ria",
             "city": "Rio de Janeiro",
             "neighbourhood": "Urca",
             "regionName": "Urca",
@@ -1589,8 +1372,8 @@
             "salePrice": 0,
             "address": "Rua Giovani de Castro",
             "city": "Rio de Janeiro",
-            "neighbourhood": "Freguesia (jacarepagu√°)",
-            "regionName": "Freguesia¬†",
+            "neighbourhood": "Freguesia (jacarepagu·)",
+            "regionName": "Freguesia†",
             "isSecondaryHouse": false,
             "coverImage": "894601380-595.875865488022101.jpg",
             "imageList": [],
@@ -1602,6 +1385,53 @@
             "isFurnished": false,
             "latitude": -22.9493515,
             "longitude": -43.3503344
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "892887862",
+        "_score": 885.9066,
+        "_source": {
+            "id": 892887862,
+            "type": "Apartamento",
+            "area": 76,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "CHURRASQUEIRA",
+                "GAS_ENCANADO",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "ESPACO_GOURMET_NA_AREA_COMUM",
+                "PLAYGROUND",
+                "SAUNA"
+            ],
+            "totalCost": 4668,
+            "rent": 3500,
+            "iptuPlusCondominium": 1032,
+            "salePrice": 0,
+            "address": "Rua Rosa E Silva",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Graja˙",
+            "regionName": "Graja˙",
+            "isSecondaryHouse": false,
+            "coverImage": "892887862-631.6539920901818MVF1481.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "latitude": -22.9253711,
+            "longitude": -43.2663916
         },
         "fields": {
             "listingTags": [
@@ -1802,7 +1632,7 @@
             "rent": 1200,
             "iptuPlusCondominium": 500,
             "salePrice": 250000,
-            "address": "Estrada do Cafund√°",
+            "address": "Estrada do Cafund·",
             "city": "Rio de Janeiro",
             "neighbourhood": "Tanque",
             "regionName": "Taquara",
@@ -1854,7 +1684,7 @@
             "salePrice": 210000,
             "address": "Estrada Paulo de Medeiros",
             "city": "Rio de Janeiro",
-            "neighbourhood": "√Ågua Santa",
+            "neighbourhood": "¡gua Santa",
             "regionName": "Piedade",
             "isSecondaryHouse": false,
             "coverImage": "893456213-193.4832348611964520211016114955.jpg",
@@ -1896,7 +1726,7 @@
             "rent": 2222,
             "iptuPlusCondominium": 546,
             "salePrice": 0,
-            "address": "Avenida Nossa Senhora de F√°tima",
+            "address": "Avenida Nossa Senhora de F·tima",
             "city": "Rio de Janeiro",
             "neighbourhood": "Centro",
             "regionName": "Centro",
@@ -1940,7 +1770,7 @@
             "address": "Rua Teodoro da Silva",
             "city": "Rio de Janeiro",
             "neighbourhood": "Vila Isabel",
-            "regionName": "Andara√≠",
+            "regionName": "AndaraÌ",
             "isSecondaryHouse": false,
             "coverImage": "894595955-273.170511421032877W4A8862.jpg",
             "imageList": [],
@@ -2031,8 +1861,8 @@
             "salePrice": 0,
             "address": "Rua Major Rubens Vaz",
             "city": "Rio de Janeiro",
-            "neighbourhood": "G√°vea",
-            "regionName": "G√°vea",
+            "neighbourhood": "G·vea",
+            "regionName": "G·vea",
             "isSecondaryHouse": false,
             "coverImage": "894111632-601.2465749791053MG2340.jpg",
             "imageList": [],
@@ -2164,7 +1994,7 @@
             "address": "Avenida do Pepe",
             "city": "Rio de Janeiro",
             "neighbourhood": "Barra da Tijuca",
-            "regionName": "Jardim Oce√¢nico",
+            "regionName": "Jardim Oce‚nico",
             "isSecondaryHouse": false,
             "coverImage": "892840730-161.3341933009733QUINTOANDARRIO080820182.jpg",
             "imageList": [],
@@ -2225,6 +2055,195 @@
             ],
             "latitude": -22.8643462,
             "longitude": -43.3616461
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893531923",
+        "_score": 885.8299,
+        "_source": {
+            "id": 893531923,
+            "type": "StudioOuKitchenette",
+            "area": 25,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "GAS_ENCANADO",
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 3620,
+            "rent": 3100,
+            "iptuPlusCondominium": 400,
+            "salePrice": 0,
+            "address": "Rua Senador Vergueiro",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Flamengo",
+            "regionName": "Flamengo",
+            "isSecondaryHouse": false,
+            "coverImage": "893531923-520.4621325741365IMG7969.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -22.9332157,
+            "longitude": -43.1770108
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893271363",
+        "_score": 885.827,
+        "_source": {
+            "id": 893271363,
+            "type": "Casa",
+            "area": 82,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 0,
+            "installations": [
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 1879,
+            "rent": 1806,
+            "iptuPlusCondominium": 0,
+            "salePrice": 0,
+            "address": "Rua Baronesa do Engenho Novo",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Engenho Novo",
+            "regionName": "Cachambi",
+            "isSecondaryHouse": false,
+            "coverImage": "893271363-424.05329443276554DSC6122.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -22.9090942,
+            "longitude": -43.2678381
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894598784",
+        "_score": 885.8237,
+        "_source": {
+            "id": 894598784,
+            "type": "Apartamento",
+            "area": 65,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "SAUNA",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "CORRIMAO",
+                "ACADEMIA",
+                "LAVANDERIA_NO_PREDIO",
+                "PLAYGROUND",
+                "PISO_TATIL"
+            ],
+            "totalCost": 6399,
+            "rent": 4500,
+            "iptuPlusCondominium": 1725,
+            "salePrice": 0,
+            "address": "Avenida Evandro Lins E Silva",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Barra da Tijuca",
+            "regionName": "Barra da Tijuca",
+            "isSecondaryHouse": false,
+            "coverImage": "894598784-548.6474935865957MG2932.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "latitude": -22.978617900000003,
+            "longitude": -43.39407126068137
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "892996506",
+        "_score": 885.82263,
+        "_source": {
+            "id": 892996506,
+            "type": "Apartamento",
+            "area": 48,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "PISCINA",
+                "GAS_ENCANADO",
+                "ACADEMIA",
+                "ESPACO_GOURMET_NA_AREA_COMUM",
+                "CHURRASQUEIRA",
+                "PLAYGROUND",
+                "QUADRA_ESPORTIVA",
+                "SALAO_DE_FESTAS"
+            ],
+            "totalCost": 2185,
+            "rent": 1750,
+            "iptuPlusCondominium": 377,
+            "salePrice": 0,
+            "address": "Rua Estremadura",
+            "city": "Rio de Janeiro",
+            "neighbourhood": "Iraj·",
+            "regionName": "Iraj·",
+            "isSecondaryHouse": false,
+            "coverImage": "892996506-27.58805501652261701William.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -22.8238328,
+            "longitude": -43.3180551
         },
         "fields": {
             "listingTags": [

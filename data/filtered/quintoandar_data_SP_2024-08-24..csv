@@ -1,0 +1,51 @@
+,id,type,area,bedrooms,bathrooms,parking_spaces,is_furnished,rent,iptu_plus_condominum,total_cost,sale_price,address,neighbourhood,regionName,city,latitude,longitude,for_rent,for_sale
+0,893023438,Apartamento,55,2,1,1,False,1396,0,1765,0,Rua Fachini,Vila Fachini,Jabaquara,São Paulo,-20.8008256,-49.4187733,True,False
+1,894601219,StudioOuKitchenette,25,1,1,0,True,2200,0,2992,499000,Avenida dos Imarés,Indianópolis,Moema,São Paulo,-23.6128138,-46.6656131,True,True
+2,894064647,Apartamento,89,3,2,0,False,4000,0,4769,570000,Rua Joaquim Roseira,Jardim Novo Taboão,Portal do Morumbi,São Paulo,-23.4324839,-46.5063886,True,True
+3,892785598,Apartamento,45,1,1,1,True,2827,0,4167,0,Rua Cajaíba,Vila Pompéia,Sumaré,São Paulo,-23.535399,-46.6908015,True,False
+4,892971870,Casa,60,2,1,0,False,2354,0,2618,0,Rua Gabriel Dias,Vila Firmiano Pinto,Ipiranga,São Paulo,-23.5999447,-46.6184791,True,False
+5,892981641,CasaCondominio,96,2,1,1,False,3000,0,3096,0,Rua Lord Cockrane,Ipiranga,Ipiranga,São Paulo,-23.5931164,-46.6063157,True,False
+6,894589004,StudioOuKitchenette,22,1,1,1,True,3000,0,3757,510000,Rua da Consolação,Consolação,Consolação,São Paulo,-23.5538099,-46.6609235,True,True
+7,894601443,StudioOuKitchenette,15,1,1,0,True,2400,0,2893,0,Rua das Palmeiras,Vila Buarque,Santa Cecília,São Paulo,-23.5471806,-46.958368,True,False
+8,893004236,Apartamento,55,2,1,1,False,2395,0,3372,0,Rua Hungara,Vila Ipojuca,Vila Romana,São Paulo,-23.543654,-46.5774688,True,False
+9,894159585,Casa,80,2,2,1,False,1938,0,2065,0,"Rua Angélica Kauffmann, 276 - Casa 2 - Vila da Saúde, São Paulo - Sp, 04294-100, Brasil",Vila da Saúde,Vila das Mercês,São Paulo,-23.6182665,-46.6364035,True,False
+10,892903528,Apartamento,56,2,2,1,False,2721,0,3531,420000,Rua José Coimbra,Vila Andrade,Vila Andrade,São Paulo,-23.6221022,-46.7400957,True,False
+11,893621392,StudioOuKitchenette,16,1,1,0,False,1800,0,2085,0,Rua Aguiar de Barros,Bela Vista,Bela Vista,São Paulo,-23.5539085,-46.6394849,True,False
+12,894601670,Apartamento,50,2,1,1,False,1900,0,2522,0,Rua Copacabana,Chora Menino,Santana,São Paulo,,,True,False
+13,894599345,Apartamento,25,1,1,0,False,2100,0,2481,0,Rua Ibitirama,Vila Prudente,Vila Prudente,São Paulo,-23.584427,-46.581938,True,False
+14,894101067,Casa,80,2,3,2,True,3502,0,3883,0,Rua Érico Gonçalves Machado,Vila Sao Paulo,Jardim Marajoara ,São Paulo,-23.6580547,-46.6717071,True,False
+15,893029632,StudioOuKitchenette,25,1,1,0,False,918,0,999,0,Rua Ana César,Vila Cunha Bueno,Sapopemba,São Paulo,-23.6031556,-46.515657,True,False
+16,894489579,Apartamento,50,2,2,1,False,3400,0,4137,560000,Rua Tenente Gelás,Tatuapé,Tatuapé,São Paulo,-23.5296096,-46.5582508,True,True
+17,893099688,Casa,137,2,1,0,False,2550,0,3314,775000,Rua Marcelina,Vila Romana,Vila Romana,São Paulo,-23.5303128,-46.6994776,True,True
+18,894601391,Apartamento,54,2,2,1,False,4300,0,5002,0,Rua Padre Adelino,Quarta Parada,Belém,São Paulo,,,True,False
+19,894598974,StudioOuKitchenette,26,1,1,0,False,1400,0,1902,249100,Avenida Duque de Caxias,Campos Elíseos,Santa Cecília,São Paulo,-23.5363478,-46.643386411056376,True,True
+20,893001591,Apartamento,50,2,1,1,False,4000,0,4504,0,Avenida Eliseu de Almeida,Butantã,Butantã,São Paulo,-23.5594339,-46.7419293,True,False
+21,893003133,Apartamento,89,3,3,2,True,3850,0,5467,0,Rua Doutor Elísio de Castro,Vila Dom Pedro I,Ipiranga,São Paulo,-23.58934,-46.6199357,True,False
+22,894599893,Apartamento,64,2,2,2,True,4000,0,5154,800000,Rua Maratona,Vila Alexandria,Vila Mascote,São Paulo,-23.6434104,-46.6715443,True,True
+23,894597574,Apartamento,42,2,1,1,False,1918,0,2382,0,Rua Santa Amélia,Jardim Boa Vista (zona Oeste),Raposo Tavares,São Paulo,-22.7294323,-47.4027,True,False
+24,894560152,Apartamento,65,2,2,1,True,4000,0,5087,780000,Rua Doutor Djalma Pinheiro Franco,Vila Santa Catarina,Vila Mascote,São Paulo,-23.6523888,-46.6656324,True,True
+25,894163272,Apartamento,35,1,1,0,False,1050,0,1172,0,Rua Professor João Simões,Vila Santo Estéfano,Bosque da Saúde,São Paulo,-23.6279867,-46.6277301,True,False
+26,893091586,Apartamento,56,2,1,1,False,1447,0,2068,0,Rua Jacaré-copaíba,Vila Marina,Freguesia do Ó,São Paulo,-23.5922627,-46.6298562,True,False
+27,893776951,Apartamento,61,3,2,1,False,2015,0,2485,440000,Avenida Casa Grande,Parque São Lucas,Sapopemba,São Paulo,-23.6771412,-46.6990811,True,True
+28,894599433,StudioOuKitchenette,60,2,1,0,False,2600,0,3443,0,Rua Aurora,Santa Efigênia,Santa Cecília,São Paulo,-22.3154056,-49.0322752,True,False
+29,893929193,Apartamento,26,0,1,0,False,1196,0,1520,0,Rua Pretória,Vila Formosa,Vila Carrão,São Paulo,-23.5627536,-46.5431753,True,False
+30,893020177,Apartamento,52,2,2,1,False,2400,0,3213,0,Rua Padre Raposo,Mooca,Mooca,São Paulo,-23.5635288,-46.593809,True,False
+31,893146353,Casa,220,3,3,2,False,3250,0,3675,600000,Rua Engenheiro Joaquim Sampaio Ferraz,Vila Mazzei,Vila Mazzei,São Paulo,-23.4594099,-46.6016165,True,True
+32,893431953,Apartamento,55,2,2,1,True,3750,0,4610,0,Rua Afonso Celso,Vila Mariana,Vila Mariana,São Paulo,-23.5970432,-46.6349288,True,False
+33,893962407,StudioOuKitchenette,19,1,1,0,True,3500,0,4095,570000,Rua Oscar Freire,Pinheiros,Pinheiros,São Paulo,-23.5520959,-46.6778366,True,True
+34,894141699,Apartamento,33,2,1,0,False,1650,0,2021,250000,Avenida Vila Ema,Vila Ema,Vila Santa Clara,São Paulo,-23.2045216,-45.9014843,True,True
+35,894111811,Apartamento,58,2,2,1,True,4502,0,5785,0,Rua da Paz,Chácara Santo Antônio (zona Sul),Chácara Santo Antonio,São Paulo,-23.4997345,-47.5533139,True,False
+36,894599967,Apartamento,69,3,2,1,False,2400,0,3263,0,Rua João Rudge,Casa Verde,Casa Verde,São Paulo,-23.5119227,-46.6569142,True,False
+37,894597448,Apartamento,41,2,1,0,True,2890,0,3401,0,Rua da Independência,Cambuci,Cambuci,São Paulo,-23.3804519,-49.5093774,True,False
+38,894096971,StudioOuKitchenette,24,1,1,0,True,3500,0,4104,690000,Rua Correia Dias,Paraíso,Vila Mariana,São Paulo,-23.5766041,-46.6400087,True,True
+39,894595376,Apartamento,64,3,2,1,False,2050,0,3458,0,Avenida Giovanni Gronchi,Vila Andrade,Panamby,São Paulo,-23.617503,-46.7318464,True,False
+40,893522363,Apartamento,64,2,2,2,False,4050,0,5433,930000,Rua Camburiú,Vila Ipojuca,Vila Romana,São Paulo,-23.5314798,-46.7094094,True,True
+41,892799626,Apartamento,80,1,2,1,True,7000,0,8320,1120000,Rua Zacarias de Gois,Parque Colonial,Campo Belo,São Paulo,-23.6250654,-46.6733564,True,True
+42,893077754,Apartamento,59,2,2,1,False,1550,0,2593,400000,Rua Ministro Romeiro Neto,Vila Basileia,Vila Roque,São Paulo,-23.4820833,-46.6523306,True,False
+43,894572107,Apartamento,24,1,1,0,True,2350,0,2829,270000,Rua Visconde de Parnaíba,Brás,Mooca,São Paulo,-7.0234488,-37.9361456,True,True
+44,893178494,Apartamento,82,3,2,2,False,2181,0,3233,0,Rua José de Almeida,Vila Medeiros,Vila Ede,São Paulo,-23.5533323,-46.6855968,True,False
+45,893049951,Casa,70,2,1,1,False,1533,0,1598,0,Rua das Angélicas,Jardim Laone,Ponte Rasa,São Paulo,-23.522246,-46.3713413,True,False
+46,894600199,Apartamento,60,2,2,1,False,5500,0,7012,1200000,Rua Alves Guimarães,Pinheiros,Pinheiros,São Paulo,-23.557432,-46.677054,True,True
+47,893757568,StudioOuKitchenette,25,1,1,0,False,2300,0,2669,310000,Rua Maria Paula,Bela Vista,Bela Vista,São Paulo,-23.5558134,-46.7875877,True,True
+48,894535789,Apartamento,105,2,3,2,True,5500,0,6896,920000,Rodovia Raposo Tavares,Jardim Arpoador,Jardim Éster Yolanda,São Paulo,-22.9327858,-49.8889388,True,True
+49,893553613,Apartamento,56,2,2,2,False,3700,0,4609,638000,Rua Santa Áurea,Vila Nair,Bosque da Saúde,São Paulo,-23.6079817,-46.6099732,True,True

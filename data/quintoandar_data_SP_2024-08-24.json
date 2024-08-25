@@ -1,0 +1,2379 @@
+[
+    {
+        "_id": "893023438",
+        "_score": 887.1657,
+        "_source": {
+            "id": 893023438,
+            "type": "Apartamento",
+            "area": 55,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "GAS_ENCANADO",
+                "PLAYGROUND",
+                "CHURRASQUEIRA"
+            ],
+            "totalCost": 1765,
+            "rent": 1396,
+            "iptuPlusCondominium": 315,
+            "salePrice": 0,
+            "address": "Rua Fachini",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Fachini",
+            "regionName": "Jabaquara",
+            "isSecondaryHouse": false,
+            "coverImage": "893023438-977.8981415060.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [],
+            "latitude": -20.8008256,
+            "longitude": -49.4187733
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894601219",
+        "_score": 886.88,
+        "_source": {
+            "id": 894601219,
+            "type": "StudioOuKitchenette",
+            "area": 25,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "LAVANDERIA_NO_PREDIO",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 2992,
+            "rent": 2200,
+            "iptuPlusCondominium": 708,
+            "salePrice": 499000,
+            "address": "Avenida dos Imarés",
+            "city": "São Paulo",
+            "neighbourhood": "Indianópolis",
+            "regionName": "Moema",
+            "isSecondaryHouse": false,
+            "coverImage": "894601219-639.0204873235566IMG1940.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0057,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.6128138,
+            "longitude": -46.6656131
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894064647",
+        "_score": 886.65295,
+        "_source": {
+            "id": 894064647,
+            "type": "Apartamento",
+            "area": 89,
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "CHURRASQUEIRA",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "CORRIMAO",
+                "ACADEMIA",
+                "PLAYGROUND",
+                "PISO_TATIL"
+            ],
+            "totalCost": 4769,
+            "rent": 4000,
+            "iptuPlusCondominium": 615,
+            "salePrice": 570000,
+            "address": "Rua Joaquim Roseira",
+            "city": "São Paulo",
+            "neighbourhood": "Jardim Novo Taboão",
+            "regionName": "Portal do Morumbi",
+            "isSecondaryHouse": false,
+            "coverImage": "894064647-785.461766385443351.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0045,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.4324839,
+            "longitude": -46.5063886
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "892785598",
+        "_score": 886.6409,
+        "_source": {
+            "id": 892785598,
+            "type": "Apartamento",
+            "area": 45,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 1,
+            "installations": [
+                "PLAYGROUND",
+                "PISCINA",
+                "CHURRASQUEIRA",
+                "ACADEMIA",
+                "SALAO_DE_FESTAS",
+                "GAS_ENCANADO"
+            ],
+            "totalCost": 4167,
+            "rent": 2827,
+            "iptuPlusCondominium": 1261,
+            "salePrice": 0,
+            "address": "Rua Cajaíba",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Pompéia",
+            "regionName": "Sumaré",
+            "isSecondaryHouse": false,
+            "coverImage": "892785598-662.4160382938327DSC0099cpia.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.535399,
+            "longitude": -46.6908015
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "892971870",
+        "_score": 886.4826,
+        "_source": {
+            "id": 892971870,
+            "type": "Casa",
+            "area": 60,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 0,
+            "installations": [
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 2618,
+            "rent": 2354,
+            "iptuPlusCondominium": 187,
+            "salePrice": 0,
+            "address": "Rua Gabriel Dias",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Firmiano Pinto",
+            "regionName": "Ipiranga",
+            "isSecondaryHouse": false,
+            "coverImage": "892971870-663.1055186507233IMG0298.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5999447,
+            "longitude": -46.6184791
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "892981641",
+        "_score": 886.4716,
+        "_source": {
+            "id": 892981641,
+            "type": "CasaCondominio",
+            "area": 96,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [],
+            "totalCost": 3096,
+            "rent": 3000,
+            "iptuPlusCondominium": 46,
+            "salePrice": 0,
+            "address": "Rua Lord Cockrane",
+            "city": "São Paulo",
+            "neighbourhood": "Ipiranga",
+            "regionName": "Ipiranga",
+            "isSecondaryHouse": false,
+            "coverImage": "892981641-101.14473050513017IMG0683.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5931164,
+            "longitude": -46.6063157
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894589004",
+        "_score": 886.4508,
+        "_source": {
+            "id": 894589004,
+            "type": "StudioOuKitchenette",
+            "area": 22,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 1,
+            "installations": [
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "LAVANDERIA_NO_PREDIO",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "PISO_TATIL"
+            ],
+            "totalCost": 3757,
+            "rent": 3000,
+            "iptuPlusCondominium": 641,
+            "salePrice": 510000,
+            "address": "Rua da Consolação",
+            "city": "São Paulo",
+            "neighbourhood": "Consolação",
+            "regionName": "Consolação",
+            "isSecondaryHouse": false,
+            "coverImage": "894589004-990.7765796847003DSC06723.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0037,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.5538099,
+            "longitude": -46.6609235
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894601443",
+        "_score": 886.4329,
+        "_source": {
+            "id": 894601443,
+            "type": "StudioOuKitchenette",
+            "area": 15,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "LAVANDERIA_NO_PREDIO",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 2893,
+            "rent": 2400,
+            "iptuPlusCondominium": 400,
+            "salePrice": 0,
+            "address": "Rua das Palmeiras",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Buarque",
+            "regionName": "Santa Cecília",
+            "isSecondaryHouse": false,
+            "coverImage": "894601443-189.39012393647482IMG5326.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5471806,
+            "longitude": -46.958368
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893004236",
+        "_score": 886.4254,
+        "_source": {
+            "id": 893004236,
+            "type": "Apartamento",
+            "area": 55,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "PLAYGROUND",
+                "PISCINA",
+                "CHURRASQUEIRA",
+                "QUADRA_ESPORTIVA",
+                "ACADEMIA",
+                "SALAO_DE_FESTAS",
+                "GAS_ENCANADO"
+            ],
+            "totalCost": 3372,
+            "rent": 2395,
+            "iptuPlusCondominium": 884,
+            "salePrice": 0,
+            "address": "Rua Hungara",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Ipojuca",
+            "regionName": "Vila Romana",
+            "isSecondaryHouse": false,
+            "coverImage": "893004236-17.869503424975285MG1115.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "latitude": -23.543654,
+            "longitude": -46.5774688
+        }
+    },
+    {
+        "_id": "894159585",
+        "_score": 886.3704,
+        "_source": {
+            "id": 894159585,
+            "type": "Casa",
+            "area": 80,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "VAGA_DE_GARAGEM_ACESSIVEL"
+            ],
+            "totalCost": 2065,
+            "rent": 1938,
+            "iptuPlusCondominium": 49,
+            "salePrice": 0,
+            "address": "Rua Angélica Kauffmann, 276 - Casa 2 - Vila da Saúde, São Paulo - Sp, 04294-100, Brasil",
+            "city": "São Paulo",
+            "neighbourhood": "Vila da Saúde",
+            "regionName": "Vila das Mercês",
+            "isSecondaryHouse": false,
+            "coverImage": "894159585-509.42496951567375IMG7173.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.6182665,
+            "longitude": -46.6364035
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "892903528",
+        "_score": 886.35034,
+        "_source": {
+            "id": 892903528,
+            "type": "Apartamento",
+            "area": 56,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "PISCINA",
+                "GAS_ENCANADO",
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "PLAYGROUND",
+                "QUADRA_ESPORTIVA",
+                "SAUNA",
+                "CHURRASQUEIRA"
+            ],
+            "totalCost": 3531,
+            "rent": 2721,
+            "iptuPlusCondominium": 725,
+            "salePrice": 420000,
+            "address": "Rua José Coimbra",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Andrade",
+            "regionName": "Vila Andrade",
+            "isSecondaryHouse": false,
+            "coverImage": "892903528-494.70371029135697IMG8954.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.005,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.6221022,
+            "longitude": -46.7400957
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893621392",
+        "_score": 886.33014,
+        "_source": {
+            "id": 893621392,
+            "type": "StudioOuKitchenette",
+            "area": 16,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "LAVANDERIA_NO_PREDIO",
+                "PISCINA",
+                "ESPACO_GOURMET_NA_AREA_COMUM",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 2085,
+            "rent": 1800,
+            "iptuPlusCondominium": 216,
+            "salePrice": 0,
+            "address": "Rua Aguiar de Barros",
+            "city": "São Paulo",
+            "neighbourhood": "Bela Vista",
+            "regionName": "Bela Vista",
+            "isSecondaryHouse": false,
+            "coverImage": "893621392-339.73933616436733IMG0032.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5539085,
+            "longitude": -46.6394849
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED"
+            ]
+        }
+    },
+    {
+        "_id": "894601670",
+        "_score": 886.32733,
+        "_source": {
+            "id": 894601670,
+            "type": "Apartamento",
+            "area": 50,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 2522,
+            "rent": 1900,
+            "iptuPlusCondominium": 548,
+            "salePrice": 0,
+            "address": "Rua Copacabana",
+            "city": "São Paulo",
+            "neighbourhood": "Chora Menino",
+            "regionName": "Santana",
+            "isSecondaryHouse": false,
+            "coverImage": "894601670-364.3603699694575IMG0011.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894599345",
+        "_score": 886.317,
+        "_source": {
+            "id": 894599345,
+            "type": "Apartamento",
+            "area": 25,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "LAVANDERIA_NO_PREDIO",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "PISO_TATIL"
+            ],
+            "totalCost": 2481,
+            "rent": 2100,
+            "iptuPlusCondominium": 300,
+            "salePrice": 0,
+            "address": "Rua Ibitirama",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Prudente",
+            "regionName": "Vila Prudente",
+            "isSecondaryHouse": false,
+            "coverImage": "894599345-508.90294129171065IMG7837.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "latitude": -23.584427,
+            "longitude": -46.581938
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED",
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894101067",
+        "_score": 886.3136,
+        "_source": {
+            "id": 894101067,
+            "type": "Casa",
+            "area": 80,
+            "bathrooms": 3,
+            "bedrooms": 2,
+            "parkingSpaces": 2,
+            "installations": [
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "CHURRASQUEIRA"
+            ],
+            "totalCost": 3883,
+            "rent": 3502,
+            "iptuPlusCondominium": 234,
+            "salePrice": 0,
+            "address": "Rua Érico Gonçalves Machado",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Sao Paulo",
+            "regionName": "Jardim Marajoara ",
+            "isSecondaryHouse": false,
+            "coverImage": "894101067-28.2176235695214DSC7703.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.6580547,
+            "longitude": -46.6717071
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893029632",
+        "_score": 886.3117,
+        "_source": {
+            "id": 893029632,
+            "type": "StudioOuKitchenette",
+            "area": 25,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "PERTO_DE_METRO_OU_TREM",
+                "GAS_ENCANADO"
+            ],
+            "totalCost": 999,
+            "rent": 918,
+            "iptuPlusCondominium": 50,
+            "salePrice": 0,
+            "address": "Rua Ana César",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Cunha Bueno",
+            "regionName": "Sapopemba",
+            "isSecondaryHouse": false,
+            "coverImage": "893029632-293.530523681527IMG7738.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [],
+            "latitude": -23.6031556,
+            "longitude": -46.515657
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894489579",
+        "_score": 886.31036,
+        "_source": {
+            "id": 894489579,
+            "type": "Apartamento",
+            "area": 50,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 4137,
+            "rent": 3400,
+            "iptuPlusCondominium": 605,
+            "salePrice": 560000,
+            "address": "Rua Tenente Gelás",
+            "city": "São Paulo",
+            "neighbourhood": "Tatuapé",
+            "regionName": "Tatuapé",
+            "isSecondaryHouse": false,
+            "coverImage": "894489579-474.74836784513417IMG5608.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0048,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.5296096,
+            "longitude": -46.5582508
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893099688",
+        "_score": 886.30457,
+        "_source": {
+            "id": 893099688,
+            "type": "Casa",
+            "area": 137,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 0,
+            "installations": [
+                "GAS_ENCANADO",
+                "ESPACO_GOURMET_NA_AREA_COMUM"
+            ],
+            "totalCost": 3314,
+            "rent": 2550,
+            "iptuPlusCondominium": 655,
+            "salePrice": 775000,
+            "address": "Rua Marcelina",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Romana",
+            "regionName": "Vila Romana",
+            "isSecondaryHouse": false,
+            "coverImage": "893099688-768.5654989233947CodImvel3996884.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0029,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.5303128,
+            "longitude": -46.6994776
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED",
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894601391",
+        "_score": 886.29517,
+        "_source": {
+            "id": 894601391,
+            "type": "Apartamento",
+            "area": 54,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "CORRIMAO",
+                "ACADEMIA",
+                "PLAYGROUND",
+                "PISO_TATIL"
+            ],
+            "totalCost": 5002,
+            "rent": 4300,
+            "iptuPlusCondominium": 536,
+            "salePrice": 0,
+            "address": "Rua Padre Adelino",
+            "city": "São Paulo",
+            "neighbourhood": "Quarta Parada",
+            "regionName": "Belém",
+            "isSecondaryHouse": false,
+            "coverImage": "894601391-880.5421397889323IMG6849.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ]
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894598974",
+        "_score": 886.29364,
+        "_source": {
+            "id": 894598974,
+            "type": "StudioOuKitchenette",
+            "area": 26,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 1902,
+            "rent": 1400,
+            "iptuPlusCondominium": 448,
+            "salePrice": 249100,
+            "address": "Avenida Duque de Caxias",
+            "city": "São Paulo",
+            "neighbourhood": "Campos Elíseos",
+            "regionName": "Santa Cecília",
+            "isSecondaryHouse": false,
+            "coverImage": "894598974-579.283220995504IMG4998.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0049,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.5363478,
+            "longitude": -46.643386411056376
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893001591",
+        "_score": 886.25574,
+        "_source": {
+            "id": 893001591,
+            "type": "Apartamento",
+            "area": 50,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "CHURRASQUEIRA",
+                "QUADRA_ESPORTIVA",
+                "GAS_ENCANADO",
+                "PISCINA",
+                "ESPACO_GOURMET_NA_AREA_COMUM",
+                "PLAYGROUND",
+                "PERTO_DE_METRO_OU_TREM",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 4504,
+            "rent": 4000,
+            "iptuPlusCondominium": 350,
+            "salePrice": 0,
+            "address": "Avenida Eliseu de Almeida",
+            "city": "São Paulo",
+            "neighbourhood": "Butantã",
+            "regionName": "Butantã",
+            "isSecondaryHouse": false,
+            "coverImage": "893001591-954.3145660686205MG7290.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5594339,
+            "longitude": -46.7419293
+        }
+    },
+    {
+        "_id": "893003133",
+        "_score": 886.25574,
+        "_source": {
+            "id": 893003133,
+            "type": "Apartamento",
+            "area": 89,
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "parkingSpaces": 2,
+            "installations": [
+                "PERTO_DE_METRO_OU_TREM",
+                "PISCINA",
+                "GAS_ENCANADO",
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "PLAYGROUND"
+            ],
+            "totalCost": 5467,
+            "rent": 3850,
+            "iptuPlusCondominium": 1469,
+            "salePrice": 0,
+            "address": "Rua Doutor Elísio de Castro",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Dom Pedro I",
+            "regionName": "Ipiranga",
+            "isSecondaryHouse": false,
+            "coverImage": "893003133-665.751577849393911122019MG7244.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.58934,
+            "longitude": -46.6199357
+        }
+    },
+    {
+        "_id": "894599893",
+        "_score": 886.2436,
+        "_source": {
+            "id": 894599893,
+            "type": "Apartamento",
+            "area": 64,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 2,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 5154,
+            "rent": 4000,
+            "iptuPlusCondominium": 1000,
+            "salePrice": 800000,
+            "address": "Rua Maratona",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Alexandria",
+            "regionName": "Vila Mascote",
+            "isSecondaryHouse": false,
+            "coverImage": "894599893-626.1062946014838DSC03993.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "yield": 0.005,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.6434104,
+            "longitude": -46.6715443
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894597574",
+        "_score": 886.23804,
+        "_source": {
+            "id": 894597574,
+            "type": "Apartamento",
+            "area": 42,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "PLAYGROUND",
+                "RAMPAS_DE_ACESSO",
+                "PISO_TATIL"
+            ],
+            "totalCost": 2382,
+            "rent": 1918,
+            "iptuPlusCondominium": 390,
+            "salePrice": 0,
+            "address": "Rua Santa Amélia",
+            "city": "São Paulo",
+            "neighbourhood": "Jardim Boa Vista (zona Oeste)",
+            "regionName": "Raposo Tavares",
+            "isSecondaryHouse": false,
+            "coverImage": "894597574-308.587656631540951.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -22.7294323,
+            "longitude": -47.4027
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894560152",
+        "_score": 886.22424,
+        "_source": {
+            "id": 894560152,
+            "type": "Apartamento",
+            "area": 65,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "PISO_TATIL"
+            ],
+            "totalCost": 5087,
+            "rent": 4000,
+            "iptuPlusCondominium": 933,
+            "salePrice": 780000,
+            "address": "Rua Doutor Djalma Pinheiro Franco",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Santa Catarina",
+            "regionName": "Vila Mascote",
+            "isSecondaryHouse": false,
+            "coverImage": "894560152-259.3340171200258DSC04104.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "yield": 0.0043,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.6523888,
+            "longitude": -46.6656324
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894163272",
+        "_score": 886.2138,
+        "_source": {
+            "id": 894163272,
+            "type": "Apartamento",
+            "area": 35,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "CORRIMAO"
+            ],
+            "totalCost": 1172,
+            "rent": 1050,
+            "iptuPlusCondominium": 81,
+            "salePrice": 0,
+            "address": "Rua Professor João Simões",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Santo Estéfano",
+            "regionName": "Bosque da Saúde",
+            "isSecondaryHouse": false,
+            "coverImage": "894163272-990.4295934083561DSC5625.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.6279867,
+            "longitude": -46.6277301
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893091586",
+        "_score": 886.20264,
+        "_source": {
+            "id": 893091586,
+            "type": "Apartamento",
+            "area": 56,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "GAS_ENCANADO",
+                "SALAO_DE_FESTAS",
+                "PLAYGROUND",
+                "QUADRA_ESPORTIVA"
+            ],
+            "totalCost": 2068,
+            "rent": 1447,
+            "iptuPlusCondominium": 608,
+            "salePrice": 0,
+            "address": "Rua Jacaré-copaíba",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Marina",
+            "regionName": "Freguesia do Ó",
+            "isSecondaryHouse": false,
+            "coverImage": "893091586-188.470619307962382Sala.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5922627,
+            "longitude": -46.6298562
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893776951",
+        "_score": 886.20166,
+        "_source": {
+            "id": 893776951,
+            "type": "Apartamento",
+            "area": 61,
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "parkingSpaces": 1,
+            "installations": [
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 2485,
+            "rent": 2015,
+            "iptuPlusCondominium": 400,
+            "salePrice": 440000,
+            "address": "Avenida Casa Grande",
+            "city": "São Paulo",
+            "neighbourhood": "Parque São Lucas",
+            "regionName": "Sapopemba",
+            "isSecondaryHouse": false,
+            "coverImage": "893776951-745.7718172661047e973abe2-b71b-4a69-a357-64bb60302cb8-LEAD3P-952ee045-7dd3-423d-914e-dbb6408be045.",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0045,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.6771412,
+            "longitude": -46.6990811
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894599433",
+        "_score": 886.1865,
+        "_source": {
+            "id": 894599433,
+            "type": "StudioOuKitchenette",
+            "area": 60,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 0,
+            "installations": [
+                "CORRIMAO",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO"
+            ],
+            "totalCost": 3443,
+            "rent": 2600,
+            "iptuPlusCondominium": 743,
+            "salePrice": 0,
+            "address": "Rua Aurora",
+            "city": "São Paulo",
+            "neighbourhood": "Santa Efigênia",
+            "regionName": "Santa Cecília",
+            "isSecondaryHouse": false,
+            "coverImage": "894599433-266.59649799020144MG8715.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -22.3154056,
+            "longitude": -49.0322752
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893929193",
+        "_score": 886.18195,
+        "_source": {
+            "id": 893929193,
+            "type": "Apartamento",
+            "area": 26,
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "parkingSpaces": 0,
+            "installations": [
+                "GAS_ENCANADO",
+                "ESPACO_GOURMET_NA_AREA_COMUM",
+                "PISO_TATIL"
+            ],
+            "totalCost": 1520,
+            "rent": 1196,
+            "iptuPlusCondominium": 280,
+            "salePrice": 0,
+            "address": "Rua Pretória",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Formosa",
+            "regionName": "Vila Carrão",
+            "isSecondaryHouse": false,
+            "coverImage": "893929193-653.4879953576357IMG9162.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "latitude": -23.5627536,
+            "longitude": -46.5431753
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893020177",
+        "_score": 886.17255,
+        "_source": {
+            "id": 893020177,
+            "type": "Apartamento",
+            "area": 52,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "CHURRASQUEIRA",
+                "GAS_ENCANADO",
+                "PISCINA",
+                "PLAYGROUND"
+            ],
+            "totalCost": 3213,
+            "rent": 2400,
+            "iptuPlusCondominium": 720,
+            "salePrice": 0,
+            "address": "Rua Padre Raposo",
+            "city": "São Paulo",
+            "neighbourhood": "Mooca",
+            "regionName": "Mooca",
+            "isSecondaryHouse": false,
+            "coverImage": "893020177-750.4555202179394MG8392.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5635288,
+            "longitude": -46.593809
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED"
+            ]
+        }
+    },
+    {
+        "_id": "893146353",
+        "_score": 886.1689,
+        "_source": {
+            "id": 893146353,
+            "type": "Casa",
+            "area": 220,
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "parkingSpaces": 2,
+            "totalCost": 3675,
+            "rent": 3250,
+            "iptuPlusCondominium": 287,
+            "salePrice": 600000,
+            "address": "Rua Engenheiro Joaquim Sampaio Ferraz",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Mazzei",
+            "regionName": "Vila Mazzei",
+            "isSecondaryHouse": false,
+            "coverImage": "893146353-353.0005248052693IMG9790.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "yield": 0.0075,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.4594099,
+            "longitude": -46.6016165
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893431953",
+        "_score": 886.16736,
+        "_source": {
+            "id": 893431953,
+            "type": "Apartamento",
+            "area": 55,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "CHURRASQUEIRA",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PERTO_DE_METRO_OU_TREM",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS"
+            ],
+            "totalCost": 4610,
+            "rent": 3750,
+            "iptuPlusCondominium": 730,
+            "salePrice": 0,
+            "address": "Rua Afonso Celso",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Mariana",
+            "regionName": "Vila Mariana",
+            "isSecondaryHouse": false,
+            "coverImage": "893431953-146.69914820106723IMG5706.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "latitude": -23.5970432,
+            "longitude": -46.6349288
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893962407",
+        "_score": 886.16327,
+        "_source": {
+            "id": 893962407,
+            "type": "StudioOuKitchenette",
+            "area": 19,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "LAVANDERIA_NO_PREDIO",
+                "PISCINA",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "PISO_TATIL"
+            ],
+            "totalCost": 4095,
+            "rent": 3500,
+            "iptuPlusCondominium": 460,
+            "salePrice": 570000,
+            "address": "Rua Oscar Freire",
+            "city": "São Paulo",
+            "neighbourhood": "Pinheiros",
+            "regionName": "Pinheiros",
+            "isSecondaryHouse": false,
+            "coverImage": "893962407-411.920887070195DSC1863.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0057,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.5520959,
+            "longitude": -46.6778366
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED"
+            ]
+        }
+    },
+    {
+        "_id": "894141699",
+        "_score": 886.16223,
+        "_source": {
+            "id": 894141699,
+            "type": "Apartamento",
+            "area": 33,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "PERTO_DE_METRO_OU_TREM",
+                "PLAYGROUND",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "PISO_TATIL"
+            ],
+            "totalCost": 2021,
+            "rent": 1650,
+            "iptuPlusCondominium": 350,
+            "salePrice": 250000,
+            "address": "Avenida Vila Ema",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Ema",
+            "regionName": "Vila Santa Clara",
+            "isSecondaryHouse": false,
+            "coverImage": "894141699-271.8732395829078IMG5107.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0067,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.2045216,
+            "longitude": -45.9014843
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED",
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894111811",
+        "_score": 886.16,
+        "_source": {
+            "id": 894111811,
+            "type": "Apartamento",
+            "area": 58,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 5785,
+            "rent": 4502,
+            "iptuPlusCondominium": 1112,
+            "salePrice": 0,
+            "address": "Rua da Paz",
+            "city": "São Paulo",
+            "neighbourhood": "Chácara Santo Antônio (zona Sul)",
+            "regionName": "Chácara Santo Antonio",
+            "isSecondaryHouse": false,
+            "coverImage": "894111811-460.57520889968407IMG5836.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.4997345,
+            "longitude": -47.5533139
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894599967",
+        "_score": 886.16,
+        "_source": {
+            "id": 894599967,
+            "type": "Apartamento",
+            "area": 69,
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 3263,
+            "rent": 2400,
+            "iptuPlusCondominium": 770,
+            "salePrice": 0,
+            "address": "Rua João Rudge",
+            "city": "São Paulo",
+            "neighbourhood": "Casa Verde",
+            "regionName": "Casa Verde",
+            "isSecondaryHouse": false,
+            "coverImage": "894599967-131.54774390079928IMG0033.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5119227,
+            "longitude": -46.6569142
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894597448",
+        "_score": 886.1568,
+        "_source": {
+            "id": 894597448,
+            "type": "Apartamento",
+            "area": 41,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "PLAYGROUND",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "PISO_TATIL"
+            ],
+            "totalCost": 3401,
+            "rent": 2890,
+            "iptuPlusCondominium": 400,
+            "salePrice": 0,
+            "address": "Rua da Independência",
+            "city": "São Paulo",
+            "neighbourhood": "Cambuci",
+            "regionName": "Cambuci",
+            "isSecondaryHouse": false,
+            "coverImage": "894597448-421.5948480609662IMG3568.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "latitude": -23.3804519,
+            "longitude": -49.5093774
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "894096971",
+        "_score": 886.15497,
+        "_source": {
+            "id": 894096971,
+            "type": "StudioOuKitchenette",
+            "area": 24,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "LAVANDERIA_NO_PREDIO",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 4104,
+            "rent": 3500,
+            "iptuPlusCondominium": 469,
+            "salePrice": 690000,
+            "address": "Rua Correia Dias",
+            "city": "São Paulo",
+            "neighbourhood": "Paraíso",
+            "regionName": "Vila Mariana",
+            "isSecondaryHouse": false,
+            "coverImage": "894096971-927.559496433713520230602130855.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0041,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.5766041,
+            "longitude": -46.6400087
+        }
+    },
+    {
+        "_id": "894595376",
+        "_score": 886.15424,
+        "_source": {
+            "id": 894595376,
+            "type": "Apartamento",
+            "area": 64,
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 3458,
+            "rent": 2050,
+            "iptuPlusCondominium": 1329,
+            "salePrice": 0,
+            "address": "Avenida Giovanni Gronchi",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Andrade",
+            "regionName": "Panamby",
+            "isSecondaryHouse": false,
+            "coverImage": "894595376-328.6376512512716IMG0497.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "latitude": -23.617503,
+            "longitude": -46.7318464
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893522363",
+        "_score": 886.14886,
+        "_source": {
+            "id": 893522363,
+            "type": "Apartamento",
+            "area": 64,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 2,
+            "installations": [
+                "CORRIMAO",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "CHURRASQUEIRA",
+                "PISCINA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "PISO_TATIL"
+            ],
+            "totalCost": 5433,
+            "rent": 4050,
+            "iptuPlusCondominium": 1242,
+            "salePrice": 930000,
+            "address": "Rua Camburiú",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Ipojuca",
+            "regionName": "Vila Romana",
+            "isSecondaryHouse": false,
+            "coverImage": "893522363-957.4790744208499IMG7846.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0031,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.5314798,
+            "longitude": -46.7094094
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "892799626",
+        "_score": 886.14813,
+        "_source": {
+            "id": 892799626,
+            "type": "Apartamento",
+            "area": 80,
+            "bathrooms": 2,
+            "bedrooms": 1,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "CHURRASQUEIRA",
+                "QUADRA_ESPORTIVA",
+                "GAS_ENCANADO",
+                "PISCINA",
+                "ESPACO_GOURMET_NA_AREA_COMUM",
+                "SALAO_DE_JOGOS",
+                "SAUNA",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "CORRIMAO",
+                "ACADEMIA",
+                "PLAYGROUND",
+                "PISO_TATIL"
+            ],
+            "totalCost": 8320,
+            "rent": 7000,
+            "iptuPlusCondominium": 1050,
+            "salePrice": 1120000,
+            "address": "Rua Zacarias de Gois",
+            "city": "São Paulo",
+            "neighbourhood": "Parque Colonial",
+            "regionName": "Campo Belo",
+            "isSecondaryHouse": false,
+            "coverImage": "892799626-660.0426585005822IMG5094.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [],
+            "yield": 0.0056,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.6250654,
+            "longitude": -46.6733564
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893077754",
+        "_score": 886.14734,
+        "_source": {
+            "id": 893077754,
+            "type": "Apartamento",
+            "area": 59,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "CHURRASQUEIRA",
+                "PISCINA",
+                "ACADEMIA",
+                "SALAO_DE_FESTAS",
+                "GAS_ENCANADO"
+            ],
+            "totalCost": 2593,
+            "rent": 1550,
+            "iptuPlusCondominium": 983,
+            "salePrice": 400000,
+            "address": "Rua Ministro Romeiro Neto",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Basileia",
+            "regionName": "Vila Roque",
+            "isSecondaryHouse": false,
+            "coverImage": "893077754-934.0222514637614WhatsAppImage20200616at09.48.16.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "yield": 0.0034,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.4820833,
+            "longitude": -46.6523306
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894572107",
+        "_score": 886.1455,
+        "_source": {
+            "id": 894572107,
+            "type": "Apartamento",
+            "area": 24,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "CORRIMAO",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "QUADRA_ESPORTIVA",
+                "PLAYGROUND",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA",
+                "PISO_TATIL"
+            ],
+            "totalCost": 2829,
+            "rent": 2350,
+            "iptuPlusCondominium": 389,
+            "salePrice": 270000,
+            "address": "Rua Visconde de Parnaíba",
+            "city": "São Paulo",
+            "neighbourhood": "Brás",
+            "regionName": "Mooca",
+            "isSecondaryHouse": false,
+            "coverImage": "894572107-989.7798782830644Fotos1.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0044,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -7.0234488,
+            "longitude": -37.9361456
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893178494",
+        "_score": 886.1388,
+        "_source": {
+            "id": 893178494,
+            "type": "Apartamento",
+            "area": 82,
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "parkingSpaces": 2,
+            "installations": [
+                "GAS_ENCANADO",
+                "ACADEMIA",
+                "PISCINA",
+                "CHURRASQUEIRA",
+                "SAUNA",
+                "SALAO_DE_FESTAS"
+            ],
+            "totalCost": 3233,
+            "rent": 2181,
+            "iptuPlusCondominium": 983,
+            "salePrice": 0,
+            "address": "Rua José de Almeida",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Medeiros",
+            "regionName": "Vila Ede",
+            "isSecondaryHouse": false,
+            "coverImage": "893178494-961.9679698322442C2A1227.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.5533323,
+            "longitude": -46.6855968
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "893049951",
+        "_score": 886.1376,
+        "_source": {
+            "id": 893049951,
+            "type": "Casa",
+            "area": 70,
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "totalCost": 1598,
+            "rent": 1533,
+            "iptuPlusCondominium": 0,
+            "salePrice": 0,
+            "address": "Rua das Angélicas",
+            "city": "São Paulo",
+            "neighbourhood": "Jardim Laone",
+            "regionName": "Ponte Rasa",
+            "isSecondaryHouse": false,
+            "coverImage": "893049951-366.833734344429RuadasAngelicas.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": false,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "latitude": -23.522246,
+            "longitude": -46.3713413
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_PRICE_DECREASED",
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894600199",
+        "_score": 886.13745,
+        "_source": {
+            "id": 894600199,
+            "type": "Apartamento",
+            "area": 60,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 1,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "ACADEMIA",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 7012,
+            "rent": 5500,
+            "iptuPlusCondominium": 1300,
+            "salePrice": 1200000,
+            "address": "Rua Alves Guimarães",
+            "city": "São Paulo",
+            "neighbourhood": "Pinheiros",
+            "regionName": "Pinheiros",
+            "isSecondaryHouse": false,
+            "coverImage": "894600199-152.42952325663407IMG4763.jpeg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "yield": 0.0028,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -23.557432,
+            "longitude": -46.677054
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893757568",
+        "_score": 886.1373,
+        "_source": {
+            "id": 893757568,
+            "type": "StudioOuKitchenette",
+            "area": 25,
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "parkingSpaces": 0,
+            "installations": [
+                "GAS_ENCANADO",
+                "PERTO_DE_METRO_OU_TREM"
+            ],
+            "totalCost": 2669,
+            "rent": 2300,
+            "iptuPlusCondominium": 280,
+            "salePrice": 310000,
+            "address": "Rua Maria Paula",
+            "city": "São Paulo",
+            "neighbourhood": "Bela Vista",
+            "regionName": "Bela Vista",
+            "isSecondaryHouse": false,
+            "coverImage": "893757568-829.1152605922485105756801.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [],
+            "yield": 0.0065,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.5558134,
+            "longitude": -46.7875877
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    },
+    {
+        "_id": "894535789",
+        "_score": 886.1359,
+        "_source": {
+            "id": 894535789,
+            "type": "Apartamento",
+            "area": 105,
+            "bathrooms": 3,
+            "bedrooms": 2,
+            "parkingSpaces": 2,
+            "installations": [
+                "SALAO_DE_FESTAS",
+                "AREA_VERDE",
+                "VAGA_DE_GARAGEM_ACESSIVEL",
+                "CHURRASQUEIRA",
+                "QUADRA_ESPORTIVA",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "RAMPAS_DE_ACESSO",
+                "CORRIMAO",
+                "ACADEMIA",
+                "PLAYGROUND",
+                "PISO_TATIL"
+            ],
+            "totalCost": 6896,
+            "rent": 5500,
+            "iptuPlusCondominium": 1184,
+            "salePrice": 920000,
+            "address": "Rodovia Raposo Tavares",
+            "city": "São Paulo",
+            "neighbourhood": "Jardim Arpoador",
+            "regionName": "Jardim Éster Yolanda",
+            "isSecondaryHouse": false,
+            "coverImage": "894535789-245.0077685305908IMG4913.jpg",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": true,
+            "yield": 0.006,
+            "yieldStrategy": "CALCULATOR",
+            "latitude": -22.9327858,
+            "longitude": -49.8889388
+        },
+        "fields": {
+            "listingTags": [
+                "NEW_AD"
+            ]
+        }
+    },
+    {
+        "_id": "893553613",
+        "_score": 886.13586,
+        "_source": {
+            "id": 893553613,
+            "type": "Apartamento",
+            "area": 56,
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "parkingSpaces": 2,
+            "installations": [
+                "CORRIMAO",
+                "CHURRASQUEIRA",
+                "GAS_ENCANADO",
+                "PISCINA",
+                "SALAO_DE_JOGOS",
+                "PERTO_DE_METRO_OU_TREM",
+                "RAMPAS_DE_ACESSO",
+                "BRINQUEDOTECA"
+            ],
+            "totalCost": 4609,
+            "rent": 3700,
+            "iptuPlusCondominium": 781,
+            "salePrice": 638000,
+            "address": "Rua Santa Áurea",
+            "city": "São Paulo",
+            "neighbourhood": "Vila Nair",
+            "regionName": "Bosque da Saúde",
+            "isSecondaryHouse": false,
+            "coverImage": "893553613-216.61966291826573IMG9224.JPG",
+            "imageList": [],
+            "imageCaptionList": [],
+            "forRent": true,
+            "forSale": true,
+            "isPrimaryMarket": false,
+            "visitStatus": "ACCEPT_NEW",
+            "isFurnished": false,
+            "activeSpecialConditions": [
+                "Exclusivity"
+            ],
+            "yield": 0.0049,
+            "yieldStrategy": "CONTRACT",
+            "latitude": -23.6079817,
+            "longitude": -46.6099732
+        },
+        "fields": {
+            "listingTags": [
+                "RENT_ON_TERMINATION",
+                "RENT_ON_TERMINATION_RENTFLOW_ENABLED"
+            ]
+        }
+    }
+]
