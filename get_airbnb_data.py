@@ -9,7 +9,8 @@ from geopy.geocoders import Nominatim
 
 CITY_DICT =  {
 	'rj' : 'Rio-de-Janeiro-~-RJ',
-	}
+	'sp' : 'Sao-Paulo-~-São-Paulo'
+}
 
 DATE_FORMAT = '%Y-%m-%d'
 
@@ -59,9 +60,9 @@ def get_address_from_coordinates(locations):
 		localization = geolocator.reverse((latitude, longitude), exactly_one=True, addressdetails=True)
 		address = localization.raw['address']
 		road = address['road'] if 'road' in address else None
-		neighbourhood = address['suburb']
-		region = address['region']
-		city = address['city']
+		neighbourhood = address['suburb'] if 'suburb' in address else None
+		region = address['region'] if 'region' in address else None
+		city = address['city'] if 'city' in address else None
 		location['address'] = {}
 		location['address']['road'] = road
 		location['address']['neighbourhood'] = neighbourhood
@@ -530,10 +531,8 @@ def scrape_airbnb(city, start_date, end_date, monthly_start_date, monthly_end_da
 	
 	get_address_from_coordinates(locations)
 
-	with open(output_file, "w+") as arquivo:
+	with open(output_file, "w+", encoding='utf-8') as arquivo:
 		json.dump(locations, arquivo, indent=4, ensure_ascii=False)
-
-
 
 if __name__ == '__main__':
 	args = parse_args()
